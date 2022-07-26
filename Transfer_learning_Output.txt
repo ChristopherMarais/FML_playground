@@ -1,0 +1,61 @@
+
+Fold Number = 1
+Learning Rate = 0.1 Batch = 4 Gamma = 0.1 Step Size =  10
+Epoch 1/1
+----------
+train Loss: 13.5610 Acc: 0.8687
+val Loss: 13.6321 Acc: 0.9089
+
+Training complete in 2m 1s
+Best val Acc: 0.908923
+
+Fold Number = 2
+Learning Rate = 0.1 Batch = 4 Gamma = 0.1 Step Size =  10
+Epoch 1/1
+----------
+train Loss: 12.2832 Acc: 0.8789
+val Loss: 2.1215 Acc: 0.9719
+
+Training complete in 2m 2s
+Best val Acc: 0.971870
+
+Fold Number = 1
+Learning Rate = 0.1 Batch = 8 Gamma = 0.1 Step Size =  10
+Epoch 1/1
+----------
+train Loss: 4.3173 Acc: 0.9532
+val Loss: 3.0196 Acc: 0.9675
+
+Training complete in 1m 43s
+Best val Acc: 0.967489
+
+Fold Number = 2
+Learning Rate = 0.1 Batch = 8 Gamma = 0.1 Step Size =  10
+Epoch 1/1
+----------
+train Loss: 7.6052 Acc: 0.9290
+val Loss: 3.0765 Acc: 0.9739
+
+Training complete in 1m 44s
+Best val Acc: 0.973945
+
+Fold Number = 1
+Learning Rate = 0.1 Batch = 16 Gamma = 0.1 Step Size =  10
+Epoch 1/1
+----------
+train Loss: 2.1890 Acc: 0.9731
+val Loss: 2.5838 Acc: 0.9811
+
+Training complete in 1m 32s
+Best val Acc: 0.981093
+
+Fold Number = 2
+Learning Rate = 0.1 Batch = 16 Gamma = 0.1 Step Size =  10
+Epoch 1/1
+----------
+train Loss: 2.4719 Acc: 0.9699
+val Loss: 3.1757 Acc: 0.9763
+
+Training complete in 1m 32s
+Best val Acc: 0.976251
+Finished
