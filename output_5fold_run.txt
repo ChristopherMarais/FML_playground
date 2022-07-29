@@ -1,0 +1,7129 @@
+Data shapes torch.Size([4904, 3, 300, 300]) torch.Size([1226, 3, 300, 300]) torch.Size([4904]) torch.Size([1226])
+fold-batch_size-gamma-step_size-learning_rate 1 128 0.1 3 0.001
+Epoch 1/15
+----------
+train Loss: 0.8970 Acc: 0.8161
+val Loss: 0.2735 Acc: 0.9698
+
+Epoch 2/15
+----------
+train Loss: 0.2239 Acc: 0.9682
+val Loss: 0.1655 Acc: 0.9804
+
+Epoch 3/15
+----------
+train Loss: 0.1478 Acc: 0.9804
+val Loss: 0.1318 Acc: 0.9804
+
+Epoch 4/15
+----------
+train Loss: 0.1202 Acc: 0.9814
+val Loss: 0.1246 Acc: 0.9845
+
+Epoch 5/15
+----------
+train Loss: 0.1173 Acc: 0.9839
+val Loss: 0.1228 Acc: 0.9812
+
+Epoch 6/15
+----------
+train Loss: 0.1160 Acc: 0.9849
+val Loss: 0.1193 Acc: 0.9804
+
+Epoch 7/15
+----------
+train Loss: 0.1139 Acc: 0.9821
+val Loss: 0.1196 Acc: 0.9829
+
+Epoch 8/15
+----------
+train Loss: 0.1142 Acc: 0.9851
+val Loss: 0.1194 Acc: 0.9837
+
+Epoch 9/15
+----------
+train Loss: 0.1139 Acc: 0.9833
+val Loss: 0.1186 Acc: 0.9829
+
+Epoch 10/15
+----------
+train Loss: 0.1122 Acc: 0.9839
+val Loss: 0.1204 Acc: 0.9829
+
+Epoch 11/15
+----------
+train Loss: 0.1174 Acc: 0.9841
+val Loss: 0.1178 Acc: 0.9837
+
+Epoch 12/15
+----------
+train Loss: 0.1152 Acc: 0.9841
+val Loss: 0.1178 Acc: 0.9837
+
+Epoch 13/15
+----------
+train Loss: 0.1152 Acc: 0.9839
+val Loss: 0.1198 Acc: 0.9829
+
+Epoch 14/15
+----------
+train Loss: 0.1164 Acc: 0.9808
+val Loss: 0.1203 Acc: 0.9837
+
+Epoch 15/15
+----------
+train Loss: 0.1161 Acc: 0.9835
+val Loss: 0.1186 Acc: 0.9837
+
+Training complete in 5m 20s
+Best val Acc: 0.984502
+Val
+Acc:  0.9845024469820555
+Micro F1:  0.9845024469820555
+Train
+Acc:  0.9845024469820555
+Micro F1:  0.9845024469820555
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 128 0.1 3 0.01
+Epoch 1/15
+----------
+train Loss: 0.3764 Acc: 0.8791
+val Loss: 0.1063 Acc: 0.9772
+
+Epoch 2/15
+----------
+train Loss: 0.1098 Acc: 0.9682
+val Loss: 0.0968 Acc: 0.9804
+
+Epoch 3/15
+----------
+train Loss: 0.0697 Acc: 0.9800
+val Loss: 0.0938 Acc: 0.9788
+
+Epoch 4/15
+----------
+train Loss: 0.0323 Acc: 0.9914
+val Loss: 0.0904 Acc: 0.9829
+
+Epoch 5/15
+----------
+train Loss: 0.0292 Acc: 0.9906
+val Loss: 0.0952 Acc: 0.9812
+
+Epoch 6/15
+----------
+train Loss: 0.0258 Acc: 0.9931
+val Loss: 0.0922 Acc: 0.9837
+
+Epoch 7/15
+----------
+train Loss: 0.0241 Acc: 0.9949
+val Loss: 0.0932 Acc: 0.9812
+
+Epoch 8/15
+----------
+train Loss: 0.0238 Acc: 0.9945
+val Loss: 0.0925 Acc: 0.9829
+
+Epoch 9/15
+----------
+train Loss: 0.0250 Acc: 0.9927
+val Loss: 0.0907 Acc: 0.9837
+
+Epoch 10/15
+----------
+train Loss: 0.0245 Acc: 0.9927
+val Loss: 0.0951 Acc: 0.9829
+
+Epoch 11/15
+----------
+train Loss: 0.0229 Acc: 0.9933
+val Loss: 0.0909 Acc: 0.9829
+
+Epoch 12/15
+----------
+train Loss: 0.0231 Acc: 0.9941
+val Loss: 0.0937 Acc: 0.9821
+
+Epoch 13/15
+----------
+train Loss: 0.0267 Acc: 0.9939
+val Loss: 0.0936 Acc: 0.9829
+
+Epoch 14/15
+----------
+train Loss: 0.0255 Acc: 0.9941
+val Loss: 0.0931 Acc: 0.9829
+
+Epoch 15/15
+----------
+train Loss: 0.0294 Acc: 0.9923
+val Loss: 0.0914 Acc: 0.9829
+
+Training complete in 5m 15s
+Best val Acc: 0.983687
+Val
+Acc:  0.9836867862969005
+Micro F1:  0.9836867862969005
+Train
+Acc:  0.9836867862969005
+Micro F1:  0.9836867862969005
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 128 0.1 3 0.1
+Epoch 1/15
+----------
+train Loss: 4.1693 Acc: 0.8387
+val Loss: 0.9676 Acc: 0.9641
+
+Epoch 2/15
+----------
+train Loss: 0.6303 Acc: 0.9678
+val Loss: 0.6949 Acc: 0.9763
+
+Epoch 3/15
+----------
+train Loss: 0.4675 Acc: 0.9735
+val Loss: 0.6022 Acc: 0.9788
+
+Epoch 4/15
+----------
+train Loss: 0.2652 Acc: 0.9843
+val Loss: 0.5768 Acc: 0.9804
+
+Epoch 5/15
+----------
+train Loss: 0.1913 Acc: 0.9869
+val Loss: 0.5767 Acc: 0.9812
+
+Epoch 6/15
+----------
+train Loss: 0.1404 Acc: 0.9896
+val Loss: 0.5574 Acc: 0.9829
+
+Epoch 7/15
+----------
+train Loss: 0.1146 Acc: 0.9916
+val Loss: 0.5806 Acc: 0.9845
+
+Epoch 8/15
+----------
+train Loss: 0.1067 Acc: 0.9933
+val Loss: 0.5585 Acc: 0.9837
+
+Epoch 9/15
+----------
+train Loss: 0.1156 Acc: 0.9902
+val Loss: 0.5536 Acc: 0.9821
+
+Epoch 10/15
+----------
+train Loss: 0.1061 Acc: 0.9914
+val Loss: 0.5568 Acc: 0.9821
+
+Epoch 11/15
+----------
+train Loss: 0.1346 Acc: 0.9898
+val Loss: 0.5777 Acc: 0.9821
+
+Epoch 12/15
+----------
+train Loss: 0.1027 Acc: 0.9916
+val Loss: 0.5677 Acc: 0.9821
+
+Epoch 13/15
+----------
+train Loss: 0.1087 Acc: 0.9898
+val Loss: 0.5608 Acc: 0.9845
+
+Epoch 14/15
+----------
+train Loss: 0.1223 Acc: 0.9914
+val Loss: 0.5743 Acc: 0.9853
+
+Epoch 15/15
+----------
+train Loss: 0.1207 Acc: 0.9912
+val Loss: 0.5592 Acc: 0.9837
+
+Training complete in 5m 16s
+Best val Acc: 0.985318
+Val
+Acc:  0.9853181076672104
+Micro F1:  0.9853181076672104
+Train
+Acc:  0.9853181076672104
+Micro F1:  0.9853181076672104
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 128 0.1 5 0.001
+Epoch 1/15
+----------
+train Loss: 0.8741 Acc: 0.8250
+val Loss: 0.2718 Acc: 0.9666
+
+Epoch 2/15
+----------
+train Loss: 0.2247 Acc: 0.9698
+val Loss: 0.1625 Acc: 0.9755
+
+Epoch 3/15
+----------
+train Loss: 0.1421 Acc: 0.9812
+val Loss: 0.1270 Acc: 0.9772
+
+Epoch 4/15
+----------
+train Loss: 0.1137 Acc: 0.9819
+val Loss: 0.1144 Acc: 0.9788
+
+Epoch 5/15
+----------
+train Loss: 0.0978 Acc: 0.9825
+val Loss: 0.1006 Acc: 0.9837
+
+Epoch 6/15
+----------
+train Loss: 0.0851 Acc: 0.9872
+val Loss: 0.0995 Acc: 0.9804
+
+Epoch 7/15
+----------
+train Loss: 0.0814 Acc: 0.9890
+val Loss: 0.0972 Acc: 0.9812
+
+Epoch 8/15
+----------
+train Loss: 0.0819 Acc: 0.9894
+val Loss: 0.0978 Acc: 0.9812
+
+Epoch 9/15
+----------
+train Loss: 0.0779 Acc: 0.9892
+val Loss: 0.0977 Acc: 0.9821
+
+Epoch 10/15
+----------
+train Loss: 0.0750 Acc: 0.9886
+val Loss: 0.0954 Acc: 0.9821
+
+Epoch 11/15
+----------
+train Loss: 0.0777 Acc: 0.9872
+val Loss: 0.0963 Acc: 0.9821
+
+Epoch 12/15
+----------
+train Loss: 0.0767 Acc: 0.9872
+val Loss: 0.0953 Acc: 0.9821
+
+Epoch 13/15
+----------
+train Loss: 0.0786 Acc: 0.9867
+val Loss: 0.0951 Acc: 0.9812
+
+Epoch 14/15
+----------
+train Loss: 0.0757 Acc: 0.9884
+val Loss: 0.0947 Acc: 0.9812
+
+Epoch 15/15
+----------
+train Loss: 0.0747 Acc: 0.9896
+val Loss: 0.0971 Acc: 0.9804
+
+Training complete in 5m 19s
+Best val Acc: 0.983687
+Val
+Acc:  0.9836867862969005
+Micro F1:  0.9836867862969005
+Train
+Acc:  0.9836867862969005
+Micro F1:  0.9836867862969005
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 128 0.1 5 0.01
+Epoch 1/15
+----------
+train Loss: 0.3909 Acc: 0.8813
+val Loss: 0.1007 Acc: 0.9780
+
+Epoch 2/15
+----------
+train Loss: 0.0720 Acc: 0.9802
+val Loss: 0.0918 Acc: 0.9853
+
+Epoch 3/15
+----------
+train Loss: 0.0620 Acc: 0.9831
+val Loss: 0.0910 Acc: 0.9861
+
+Epoch 4/15
+----------
+train Loss: 0.0582 Acc: 0.9841
+val Loss: 0.1131 Acc: 0.9804
+
+Epoch 5/15
+----------
+train Loss: 0.0521 Acc: 0.9859
+val Loss: 0.0946 Acc: 0.9829
+
+Epoch 6/15
+----------
+train Loss: 0.0260 Acc: 0.9929
+val Loss: 0.0951 Acc: 0.9845
+
+Epoch 7/15
+----------
+train Loss: 0.0166 Acc: 0.9955
+val Loss: 0.0940 Acc: 0.9837
+
+Epoch 8/15
+----------
+train Loss: 0.0198 Acc: 0.9953
+val Loss: 0.0913 Acc: 0.9829
+
+Epoch 9/15
+----------
+train Loss: 0.0168 Acc: 0.9947
+val Loss: 0.0912 Acc: 0.9829
+
+Epoch 10/15
+----------
+train Loss: 0.0198 Acc: 0.9939
+val Loss: 0.0920 Acc: 0.9829
+
+Epoch 11/15
+----------
+train Loss: 0.0151 Acc: 0.9963
+val Loss: 0.0919 Acc: 0.9837
+
+Epoch 12/15
+----------
+train Loss: 0.0156 Acc: 0.9953
+val Loss: 0.0891 Acc: 0.9837
+
+Epoch 13/15
+----------
+train Loss: 0.0176 Acc: 0.9943
+val Loss: 0.0918 Acc: 0.9829
+
+Epoch 14/15
+----------
+train Loss: 0.0170 Acc: 0.9951
+val Loss: 0.0929 Acc: 0.9837
+
+Epoch 15/15
+----------
+train Loss: 0.0156 Acc: 0.9955
+val Loss: 0.0917 Acc: 0.9837
+
+Training complete in 5m 18s
+Best val Acc: 0.986134
+Val
+Acc:  0.9861337683523654
+Micro F1:  0.9861337683523654
+Train
+Acc:  0.9861337683523654
+Micro F1:  0.9861337683523654
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 128 0.1 5 0.1
+Epoch 1/15
+----------
+train Loss: 5.3292 Acc: 0.8128
+val Loss: 0.8656 Acc: 0.9772
+
+Epoch 2/15
+----------
+train Loss: 0.6534 Acc: 0.9659
+val Loss: 0.5956 Acc: 0.9821
+
+Epoch 3/15
+----------
+train Loss: 0.4407 Acc: 0.9755
+val Loss: 0.7275 Acc: 0.9812
+
+Epoch 4/15
+----------
+train Loss: 0.3181 Acc: 0.9770
+val Loss: 0.8117 Acc: 0.9772
+
+Epoch 5/15
+----------
+train Loss: 0.3514 Acc: 0.9814
+val Loss: 0.9262 Acc: 0.9706
+
+Epoch 6/15
+----------
+train Loss: 0.1936 Acc: 0.9859
+val Loss: 0.7809 Acc: 0.9821
+
+Epoch 7/15
+----------
+train Loss: 0.1526 Acc: 0.9914
+val Loss: 0.7648 Acc: 0.9804
+
+Epoch 8/15
+----------
+train Loss: 0.1594 Acc: 0.9910
+val Loss: 0.7558 Acc: 0.9812
+
+Epoch 9/15
+----------
+train Loss: 0.0908 Acc: 0.9931
+val Loss: 0.8213 Acc: 0.9821
+
+Epoch 10/15
+----------
+train Loss: 0.0986 Acc: 0.9927
+val Loss: 0.7767 Acc: 0.9804
+
+Epoch 11/15
+----------
+train Loss: 0.0722 Acc: 0.9941
+val Loss: 0.7732 Acc: 0.9812
+
+Epoch 12/15
+----------
+train Loss: 0.1066 Acc: 0.9916
+val Loss: 0.7824 Acc: 0.9821
+
+Epoch 13/15
+----------
+train Loss: 0.0772 Acc: 0.9939
+val Loss: 0.7704 Acc: 0.9812
+
+Epoch 14/15
+----------
+train Loss: 0.0662 Acc: 0.9941
+val Loss: 0.7786 Acc: 0.9821
+
+Epoch 15/15
+----------
+train Loss: 0.0734 Acc: 0.9937
+val Loss: 0.7704 Acc: 0.9812
+
+Training complete in 5m 17s
+Best val Acc: 0.982055
+Val
+Acc:  0.9820554649265906
+Micro F1:  0.9820554649265906
+Train
+Acc:  0.9820554649265906
+Micro F1:  0.9820554649265906
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 128 0.1 7 0.001
+Epoch 1/15
+----------
+train Loss: 0.8693 Acc: 0.8297
+val Loss: 0.2599 Acc: 0.9698
+
+Epoch 2/15
+----------
+train Loss: 0.2196 Acc: 0.9676
+val Loss: 0.1602 Acc: 0.9772
+
+Epoch 3/15
+----------
+train Loss: 0.1476 Acc: 0.9778
+val Loss: 0.1290 Acc: 0.9821
+
+Epoch 4/15
+----------
+train Loss: 0.1136 Acc: 0.9827
+val Loss: 0.1083 Acc: 0.9845
+
+Epoch 5/15
+----------
+train Loss: 0.0956 Acc: 0.9847
+val Loss: 0.1015 Acc: 0.9837
+
+Epoch 6/15
+----------
+train Loss: 0.0825 Acc: 0.9867
+val Loss: 0.0920 Acc: 0.9829
+
+Epoch 7/15
+----------
+train Loss: 0.0689 Acc: 0.9876
+val Loss: 0.0873 Acc: 0.9853
+
+Epoch 8/15
+----------
+train Loss: 0.0625 Acc: 0.9886
+val Loss: 0.0854 Acc: 0.9837
+
+Epoch 9/15
+----------
+train Loss: 0.0604 Acc: 0.9904
+val Loss: 0.0860 Acc: 0.9837
+
+Epoch 10/15
+----------
+train Loss: 0.0623 Acc: 0.9898
+val Loss: 0.0852 Acc: 0.9821
+
+Epoch 11/15
+----------
+train Loss: 0.0582 Acc: 0.9912
+val Loss: 0.0831 Acc: 0.9845
+
+Epoch 12/15
+----------
+train Loss: 0.0587 Acc: 0.9918
+val Loss: 0.0848 Acc: 0.9829
+
+Epoch 13/15
+----------
+train Loss: 0.0579 Acc: 0.9910
+val Loss: 0.0843 Acc: 0.9829
+
+Epoch 14/15
+----------
+train Loss: 0.0564 Acc: 0.9912
+val Loss: 0.0848 Acc: 0.9821
+
+Epoch 15/15
+----------
+train Loss: 0.0590 Acc: 0.9886
+val Loss: 0.0842 Acc: 0.9829
+
+Training complete in 5m 19s
+Best val Acc: 0.985318
+Val
+Acc:  0.9853181076672104
+Micro F1:  0.9853181076672104
+Train
+Acc:  0.9853181076672104
+Micro F1:  0.9853181076672104
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 128 0.1 7 0.01
+Epoch 1/15
+----------
+train Loss: 0.4973 Acc: 0.8595
+val Loss: 0.0944 Acc: 0.9812
+
+Epoch 2/15
+----------
+train Loss: 0.0805 Acc: 0.9786
+val Loss: 0.0992 Acc: 0.9821
+
+Epoch 3/15
+----------
+train Loss: 0.0600 Acc: 0.9825
+val Loss: 0.1061 Acc: 0.9821
+
+Epoch 4/15
+----------
+train Loss: 0.0433 Acc: 0.9880
+val Loss: 0.0976 Acc: 0.9829
+
+Epoch 5/15
+----------
+train Loss: 0.0484 Acc: 0.9878
+val Loss: 0.1100 Acc: 0.9821
+
+Epoch 6/15
+----------
+train Loss: 0.0648 Acc: 0.9839
+val Loss: 0.1685 Acc: 0.9690
+
+Epoch 7/15
+----------
+train Loss: 0.0733 Acc: 0.9806
+val Loss: 0.1179 Acc: 0.9796
+
+Epoch 8/15
+----------
+train Loss: 0.0302 Acc: 0.9927
+val Loss: 0.1227 Acc: 0.9812
+
+Epoch 9/15
+----------
+train Loss: 0.0224 Acc: 0.9941
+val Loss: 0.1203 Acc: 0.9804
+
+Epoch 10/15
+----------
+train Loss: 0.0169 Acc: 0.9955
+val Loss: 0.1170 Acc: 0.9804
+
+Epoch 11/15
+----------
+train Loss: 0.0217 Acc: 0.9945
+val Loss: 0.1173 Acc: 0.9812
+
+Epoch 12/15
+----------
+train Loss: 0.0195 Acc: 0.9951
+val Loss: 0.1215 Acc: 0.9796
+
+Epoch 13/15
+----------
+train Loss: 0.0170 Acc: 0.9947
+val Loss: 0.1191 Acc: 0.9804
+
+Epoch 14/15
+----------
+train Loss: 0.0199 Acc: 0.9937
+val Loss: 0.1210 Acc: 0.9796
+
+Epoch 15/15
+----------
+train Loss: 0.0169 Acc: 0.9949
+val Loss: 0.1143 Acc: 0.9837
+
+Training complete in 5m 18s
+Best val Acc: 0.983687
+Val
+Acc:  0.9836867862969005
+Micro F1:  0.9836867862969005
+Train
+Acc:  0.9836867862969005
+Micro F1:  0.9836867862969005
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 128 0.1 7 0.1
+Epoch 1/15
+----------
+train Loss: 5.4330 Acc: 0.8116
+val Loss: 0.7614 Acc: 0.9755
+
+Epoch 2/15
+----------
+train Loss: 0.5001 Acc: 0.9727
+val Loss: 0.6662 Acc: 0.9788
+
+Epoch 3/15
+----------
+train Loss: 0.3719 Acc: 0.9780
+val Loss: 0.7194 Acc: 0.9788
+
+Epoch 4/15
+----------
+train Loss: 0.3603 Acc: 0.9776
+val Loss: 0.7332 Acc: 0.9747
+
+Epoch 5/15
+----------
+train Loss: 0.3799 Acc: 0.9759
+val Loss: 0.7078 Acc: 0.9796
+
+Epoch 6/15
+----------
+train Loss: 0.6059 Acc: 0.9690
+val Loss: 0.8113 Acc: 0.9788
+
+Epoch 7/15
+----------
+train Loss: 0.4186 Acc: 0.9788
+val Loss: 0.8650 Acc: 0.9772
+
+Epoch 8/15
+----------
+train Loss: 0.1855 Acc: 0.9880
+val Loss: 0.6833 Acc: 0.9837
+
+Epoch 9/15
+----------
+train Loss: 0.1251 Acc: 0.9910
+val Loss: 0.6702 Acc: 0.9812
+
+Epoch 10/15
+----------
+train Loss: 0.1134 Acc: 0.9925
+val Loss: 0.6504 Acc: 0.9845
+
+Epoch 11/15
+----------
+train Loss: 0.1429 Acc: 0.9904
+val Loss: 0.6876 Acc: 0.9837
+
+Epoch 12/15
+----------
+train Loss: 0.0927 Acc: 0.9945
+val Loss: 0.6667 Acc: 0.9804
+
+Epoch 13/15
+----------
+train Loss: 0.1146 Acc: 0.9933
+val Loss: 0.7111 Acc: 0.9821
+
+Epoch 14/15
+----------
+train Loss: 0.0798 Acc: 0.9933
+val Loss: 0.6520 Acc: 0.9837
+
+Epoch 15/15
+----------
+train Loss: 0.1172 Acc: 0.9927
+val Loss: 0.6797 Acc: 0.9845
+
+Training complete in 5m 20s
+Best val Acc: 0.984502
+Val
+Acc:  0.9845024469820555
+Micro F1:  0.9845024469820555
+Train
+Acc:  0.9845024469820555
+Micro F1:  0.9845024469820555
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 128 0.01 3 0.001
+Epoch 1/15
+----------
+train Loss: 0.8831 Acc: 0.8175
+val Loss: 0.2675 Acc: 0.9698
+
+Epoch 2/15
+----------
+train Loss: 0.2284 Acc: 0.9623
+val Loss: 0.1591 Acc: 0.9788
+
+Epoch 3/15
+----------
+train Loss: 0.1469 Acc: 0.9757
+val Loss: 0.1227 Acc: 0.9837
+
+Epoch 4/15
+----------
+train Loss: 0.1288 Acc: 0.9812
+val Loss: 0.1230 Acc: 0.9861
+
+Epoch 5/15
+----------
+train Loss: 0.1286 Acc: 0.9802
+val Loss: 0.1227 Acc: 0.9853
+
+Epoch 6/15
+----------
+train Loss: 0.1245 Acc: 0.9804
+val Loss: 0.1223 Acc: 0.9853
+
+Epoch 7/15
+----------
+train Loss: 0.1231 Acc: 0.9829
+val Loss: 0.1239 Acc: 0.9869
+
+Epoch 8/15
+----------
+train Loss: 0.1257 Acc: 0.9825
+val Loss: 0.1226 Acc: 0.9861
+
+Epoch 9/15
+----------
+train Loss: 0.1243 Acc: 0.9831
+val Loss: 0.1239 Acc: 0.9861
+
+Epoch 10/15
+----------
+train Loss: 0.1246 Acc: 0.9827
+val Loss: 0.1220 Acc: 0.9845
+
+Epoch 11/15
+----------
+train Loss: 0.1266 Acc: 0.9825
+val Loss: 0.1238 Acc: 0.9869
+
+Epoch 12/15
+----------
+train Loss: 0.1231 Acc: 0.9827
+val Loss: 0.1230 Acc: 0.9853
+
+Epoch 13/15
+----------
+train Loss: 0.1250 Acc: 0.9812
+val Loss: 0.1220 Acc: 0.9845
+
+Epoch 14/15
+----------
+train Loss: 0.1209 Acc: 0.9831
+val Loss: 0.1204 Acc: 0.9853
+
+Epoch 15/15
+----------
+train Loss: 0.1212 Acc: 0.9825
+val Loss: 0.1228 Acc: 0.9853
+
+Training complete in 5m 18s
+Best val Acc: 0.986949
+Val
+Acc:  0.9869494290375204
+Micro F1:  0.9869494290375204
+Train
+Acc:  0.9869494290375204
+Micro F1:  0.9869494290375204
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 128 0.01 3 0.01
+Epoch 1/15
+----------
+train Loss: 0.4554 Acc: 0.8603
+val Loss: 0.1085 Acc: 0.9796
+
+Epoch 2/15
+----------
+train Loss: 0.0713 Acc: 0.9814
+val Loss: 0.0900 Acc: 0.9837
+
+Epoch 3/15
+----------
+train Loss: 0.0531 Acc: 0.9861
+val Loss: 0.0927 Acc: 0.9845
+
+Epoch 4/15
+----------
+train Loss: 0.0397 Acc: 0.9904
+val Loss: 0.0924 Acc: 0.9853
+
+Epoch 5/15
+----------
+train Loss: 0.0303 Acc: 0.9912
+val Loss: 0.0910 Acc: 0.9845
+
+Epoch 6/15
+----------
+train Loss: 0.0318 Acc: 0.9923
+val Loss: 0.0896 Acc: 0.9853
+
+Epoch 7/15
+----------
+train Loss: 0.0357 Acc: 0.9896
+val Loss: 0.0909 Acc: 0.9853
+
+Epoch 8/15
+----------
+train Loss: 0.0340 Acc: 0.9902
+val Loss: 0.0900 Acc: 0.9845
+
+Epoch 9/15
+----------
+train Loss: 0.0323 Acc: 0.9933
+val Loss: 0.0899 Acc: 0.9853
+
+Epoch 10/15
+----------
+train Loss: 0.0318 Acc: 0.9935
+val Loss: 0.0882 Acc: 0.9845
+
+Epoch 11/15
+----------
+train Loss: 0.0301 Acc: 0.9920
+val Loss: 0.0912 Acc: 0.9853
+
+Epoch 12/15
+----------
+train Loss: 0.0330 Acc: 0.9912
+val Loss: 0.0899 Acc: 0.9853
+
+Epoch 13/15
+----------
+train Loss: 0.0315 Acc: 0.9918
+val Loss: 0.0906 Acc: 0.9845
+
+Epoch 14/15
+----------
+train Loss: 0.0311 Acc: 0.9931
+val Loss: 0.0919 Acc: 0.9853
+
+Epoch 15/15
+----------
+train Loss: 0.0370 Acc: 0.9910
+val Loss: 0.0892 Acc: 0.9853
+
+Training complete in 5m 18s
+Best val Acc: 0.985318
+Val
+Acc:  0.9853181076672104
+Micro F1:  0.9853181076672104
+Train
+Acc:  0.9853181076672104
+Micro F1:  0.9853181076672104
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 128 0.01 3 0.1
+Epoch 1/15
+----------
+train Loss: 9.1983 Acc: 0.7743
+val Loss: 0.8245 Acc: 0.9715
+
+Epoch 2/15
+----------
+train Loss: 0.5794 Acc: 0.9708
+val Loss: 0.7479 Acc: 0.9649
+
+Epoch 3/15
+----------
+train Loss: 0.4091 Acc: 0.9768
+val Loss: 0.4928 Acc: 0.9845
+
+Epoch 4/15
+----------
+train Loss: 0.2482 Acc: 0.9843
+val Loss: 0.5045 Acc: 0.9837
+
+Epoch 5/15
+----------
+train Loss: 0.2076 Acc: 0.9847
+val Loss: 0.4897 Acc: 0.9845
+
+Epoch 6/15
+----------
+train Loss: 0.2117 Acc: 0.9857
+val Loss: 0.4856 Acc: 0.9853
+
+Epoch 7/15
+----------
+train Loss: 0.1790 Acc: 0.9896
+val Loss: 0.4990 Acc: 0.9853
+
+Epoch 8/15
+----------
+train Loss: 0.1716 Acc: 0.9880
+val Loss: 0.4953 Acc: 0.9853
+
+Epoch 9/15
+----------
+train Loss: 0.1738 Acc: 0.9859
+val Loss: 0.4850 Acc: 0.9861
+
+Epoch 10/15
+----------
+train Loss: 0.1675 Acc: 0.9874
+val Loss: 0.4896 Acc: 0.9845
+
+Epoch 11/15
+----------
+train Loss: 0.1990 Acc: 0.9855
+val Loss: 0.4886 Acc: 0.9853
+
+Epoch 12/15
+----------
+train Loss: 0.1864 Acc: 0.9857
+val Loss: 0.4948 Acc: 0.9853
+
+Epoch 13/15
+----------
+train Loss: 0.2252 Acc: 0.9867
+val Loss: 0.4854 Acc: 0.9845
+
+Epoch 14/15
+----------
+train Loss: 0.1294 Acc: 0.9880
+val Loss: 0.4853 Acc: 0.9853
+
+Epoch 15/15
+----------
+train Loss: 0.1578 Acc: 0.9880
+val Loss: 0.4821 Acc: 0.9845
+
+Training complete in 5m 18s
+Best val Acc: 0.986134
+Val
+Acc:  0.9861337683523654
+Micro F1:  0.9861337683523654
+Train
+Acc:  0.9861337683523654
+Micro F1:  0.9861337683523654
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 128 0.01 5 0.001
+Epoch 1/15
+----------
+train Loss: 0.8811 Acc: 0.8191
+val Loss: 0.2690 Acc: 0.9690
+
+Epoch 2/15
+----------
+train Loss: 0.2173 Acc: 0.9694
+val Loss: 0.1621 Acc: 0.9772
+
+Epoch 3/15
+----------
+train Loss: 0.1425 Acc: 0.9782
+val Loss: 0.1222 Acc: 0.9837
+
+Epoch 4/15
+----------
+train Loss: 0.1164 Acc: 0.9823
+val Loss: 0.1085 Acc: 0.9812
+
+Epoch 5/15
+----------
+train Loss: 0.0954 Acc: 0.9855
+val Loss: 0.0984 Acc: 0.9821
+
+Epoch 6/15
+----------
+train Loss: 0.0845 Acc: 0.9882
+val Loss: 0.0993 Acc: 0.9837
+
+Epoch 7/15
+----------
+train Loss: 0.0824 Acc: 0.9872
+val Loss: 0.1000 Acc: 0.9837
+
+Epoch 8/15
+----------
+train Loss: 0.0828 Acc: 0.9878
+val Loss: 0.0969 Acc: 0.9821
+
+Epoch 9/15
+----------
+train Loss: 0.0851 Acc: 0.9874
+val Loss: 0.0989 Acc: 0.9837
+
+Epoch 10/15
+----------
+train Loss: 0.0829 Acc: 0.9892
+val Loss: 0.0974 Acc: 0.9837
+
+Epoch 11/15
+----------
+train Loss: 0.0834 Acc: 0.9867
+val Loss: 0.0974 Acc: 0.9837
+
+Epoch 12/15
+----------
+train Loss: 0.0821 Acc: 0.9872
+val Loss: 0.0967 Acc: 0.9845
+
+Epoch 13/15
+----------
+train Loss: 0.0812 Acc: 0.9894
+val Loss: 0.0971 Acc: 0.9845
+
+Epoch 14/15
+----------
+train Loss: 0.0824 Acc: 0.9859
+val Loss: 0.0967 Acc: 0.9829
+
+Epoch 15/15
+----------
+train Loss: 0.0809 Acc: 0.9874
+val Loss: 0.0978 Acc: 0.9837
+
+Training complete in 5m 19s
+Best val Acc: 0.984502
+Val
+Acc:  0.9845024469820555
+Micro F1:  0.9845024469820555
+Train
+Acc:  0.9845024469820555
+Micro F1:  0.9845024469820555
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 128 0.01 5 0.01
+Epoch 1/15
+----------
+train Loss: 0.4355 Acc: 0.8658
+val Loss: 0.1240 Acc: 0.9763
+
+Epoch 2/15
+----------
+train Loss: 0.0789 Acc: 0.9778
+val Loss: 0.1017 Acc: 0.9845
+
+Epoch 3/15
+----------
+train Loss: 0.0656 Acc: 0.9782
+val Loss: 0.1212 Acc: 0.9796
+
+Epoch 4/15
+----------
+train Loss: 0.0529 Acc: 0.9839
+val Loss: 0.1039 Acc: 0.9837
+
+Epoch 5/15
+----------
+train Loss: 0.0537 Acc: 0.9857
+val Loss: 0.1130 Acc: 0.9788
+
+Epoch 6/15
+----------
+train Loss: 0.0317 Acc: 0.9904
+val Loss: 0.1056 Acc: 0.9796
+
+Epoch 7/15
+----------
+train Loss: 0.0311 Acc: 0.9900
+val Loss: 0.1032 Acc: 0.9804
+
+Epoch 8/15
+----------
+train Loss: 0.0269 Acc: 0.9896
+val Loss: 0.1007 Acc: 0.9821
+
+Epoch 9/15
+----------
+train Loss: 0.0269 Acc: 0.9918
+val Loss: 0.0958 Acc: 0.9829
+
+Epoch 10/15
+----------
+train Loss: 0.0268 Acc: 0.9927
+val Loss: 0.0936 Acc: 0.9829
+
+Epoch 11/15
+----------
+train Loss: 0.0226 Acc: 0.9939
+val Loss: 0.0948 Acc: 0.9821
+
+Epoch 12/15
+----------
+train Loss: 0.0228 Acc: 0.9931
+val Loss: 0.0971 Acc: 0.9829
+
+Epoch 13/15
+----------
+train Loss: 0.0260 Acc: 0.9914
+val Loss: 0.0976 Acc: 0.9821
+
+Epoch 14/15
+----------
+train Loss: 0.0260 Acc: 0.9918
+val Loss: 0.0949 Acc: 0.9829
+
+Epoch 15/15
+----------
+train Loss: 0.0194 Acc: 0.9945
+val Loss: 0.0989 Acc: 0.9837
+
+Training complete in 5m 17s
+Best val Acc: 0.984502
+Val
+Acc:  0.9845024469820555
+Micro F1:  0.9845024469820555
+Train
+Acc:  0.9845024469820555
+Micro F1:  0.9845024469820555
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 128 0.01 5 0.1
+Epoch 1/15
+----------
+train Loss: 3.9623 Acc: 0.8358
+val Loss: 0.6424 Acc: 0.9755
+
+Epoch 2/15
+----------
+train Loss: 0.6010 Acc: 0.9715
+val Loss: 0.6583 Acc: 0.9731
+
+Epoch 3/15
+----------
+train Loss: 0.4462 Acc: 0.9741
+val Loss: 0.5418 Acc: 0.9829
+
+Epoch 4/15
+----------
+train Loss: 0.3399 Acc: 0.9802
+val Loss: 0.7213 Acc: 0.9715
+
+Epoch 5/15
+----------
+train Loss: 0.3820 Acc: 0.9774
+val Loss: 0.8782 Acc: 0.9657
+
+Epoch 6/15
+----------
+train Loss: 0.2527 Acc: 0.9833
+val Loss: 0.7129 Acc: 0.9763
+
+Epoch 7/15
+----------
+train Loss: 0.1940 Acc: 0.9878
+val Loss: 0.6884 Acc: 0.9788
+
+Epoch 8/15
+----------
+train Loss: 0.1193 Acc: 0.9900
+val Loss: 0.6981 Acc: 0.9796
+
+Epoch 9/15
+----------
+train Loss: 0.1075 Acc: 0.9906
+val Loss: 0.6657 Acc: 0.9796
+
+Epoch 10/15
+----------
+train Loss: 0.1184 Acc: 0.9923
+val Loss: 0.6909 Acc: 0.9788
+
+Epoch 11/15
+----------
+train Loss: 0.0970 Acc: 0.9923
+val Loss: 0.7010 Acc: 0.9788
+
+Epoch 12/15
+----------
+train Loss: 0.1299 Acc: 0.9898
+val Loss: 0.6828 Acc: 0.9796
+
+Epoch 13/15
+----------
+train Loss: 0.1202 Acc: 0.9920
+val Loss: 0.6854 Acc: 0.9796
+
+Epoch 14/15
+----------
+train Loss: 0.1004 Acc: 0.9914
+val Loss: 0.6948 Acc: 0.9804
+
+Epoch 15/15
+----------
+train Loss: 0.1274 Acc: 0.9900
+val Loss: 0.6810 Acc: 0.9788
+
+Training complete in 5m 20s
+Best val Acc: 0.982871
+Val
+Acc:  0.9828711256117455
+Micro F1:  0.9828711256117455
+Train
+Acc:  0.9828711256117455
+Micro F1:  0.9828711256117455
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 128 0.01 7 0.001
+Epoch 1/15
+----------
+train Loss: 0.8963 Acc: 0.8146
+val Loss: 0.2669 Acc: 0.9698
+
+Epoch 2/15
+----------
+train Loss: 0.2252 Acc: 0.9680
+val Loss: 0.1669 Acc: 0.9747
+
+Epoch 3/15
+----------
+train Loss: 0.1509 Acc: 0.9765
+val Loss: 0.1278 Acc: 0.9821
+
+Epoch 4/15
+----------
+train Loss: 0.1146 Acc: 0.9829
+val Loss: 0.1070 Acc: 0.9845
+
+Epoch 5/15
+----------
+train Loss: 0.0939 Acc: 0.9857
+val Loss: 0.0982 Acc: 0.9837
+
+Epoch 6/15
+----------
+train Loss: 0.0817 Acc: 0.9876
+val Loss: 0.0941 Acc: 0.9821
+
+Epoch 7/15
+----------
+train Loss: 0.0729 Acc: 0.9874
+val Loss: 0.0861 Acc: 0.9845
+
+Epoch 8/15
+----------
+train Loss: 0.0650 Acc: 0.9898
+val Loss: 0.0889 Acc: 0.9837
+
+Epoch 9/15
+----------
+train Loss: 0.0656 Acc: 0.9902
+val Loss: 0.0868 Acc: 0.9845
+
+Epoch 10/15
+----------
+train Loss: 0.0646 Acc: 0.9904
+val Loss: 0.0851 Acc: 0.9845
+
+Epoch 11/15
+----------
+train Loss: 0.0672 Acc: 0.9884
+val Loss: 0.0841 Acc: 0.9829
+
+Epoch 12/15
+----------
+train Loss: 0.0651 Acc: 0.9910
+val Loss: 0.0851 Acc: 0.9837
+
+Epoch 13/15
+----------
+train Loss: 0.0622 Acc: 0.9898
+val Loss: 0.0873 Acc: 0.9837
+
+Epoch 14/15
+----------
+train Loss: 0.0652 Acc: 0.9896
+val Loss: 0.0859 Acc: 0.9853
+
+Epoch 15/15
+----------
+train Loss: 0.0660 Acc: 0.9898
+val Loss: 0.0837 Acc: 0.9861
+
+Training complete in 5m 19s
+Best val Acc: 0.986134
+Val
+Acc:  0.9861337683523654
+Micro F1:  0.9861337683523654
+Train
+Acc:  0.9861337683523654
+Micro F1:  0.9861337683523654
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 128 0.01 7 0.01
+Epoch 1/15
+----------
+train Loss: 0.5125 Acc: 0.8526
+val Loss: 0.1065 Acc: 0.9755
+
+Epoch 2/15
+----------
+train Loss: 0.0736 Acc: 0.9810
+val Loss: 0.0949 Acc: 0.9780
+
+Epoch 3/15
+----------
+train Loss: 0.0554 Acc: 0.9841
+val Loss: 0.0816 Acc: 0.9837
+
+Epoch 4/15
+----------
+train Loss: 0.0541 Acc: 0.9851
+val Loss: 0.1033 Acc: 0.9796
+
+Epoch 5/15
+----------
+train Loss: 0.0425 Acc: 0.9886
+val Loss: 0.1133 Acc: 0.9804
+
+Epoch 6/15
+----------
+train Loss: 0.0427 Acc: 0.9872
+val Loss: 0.0848 Acc: 0.9829
+
+Epoch 7/15
+----------
+train Loss: 0.0441 Acc: 0.9867
+val Loss: 0.0897 Acc: 0.9812
+
+Epoch 8/15
+----------
+train Loss: 0.0250 Acc: 0.9927
+val Loss: 0.0890 Acc: 0.9812
+
+Epoch 9/15
+----------
+train Loss: 0.0277 Acc: 0.9925
+val Loss: 0.0902 Acc: 0.9812
+
+Epoch 10/15
+----------
+train Loss: 0.0192 Acc: 0.9945
+val Loss: 0.0883 Acc: 0.9812
+
+Epoch 11/15
+----------
+train Loss: 0.0242 Acc: 0.9929
+val Loss: 0.0877 Acc: 0.9796
+
+Epoch 12/15
+----------
+train Loss: 0.0219 Acc: 0.9947
+val Loss: 0.0877 Acc: 0.9804
+
+Epoch 13/15
+----------
+train Loss: 0.0234 Acc: 0.9937
+val Loss: 0.0882 Acc: 0.9804
+
+Epoch 14/15
+----------
+train Loss: 0.0180 Acc: 0.9941
+val Loss: 0.0905 Acc: 0.9796
+
+Epoch 15/15
+----------
+train Loss: 0.0202 Acc: 0.9943
+val Loss: 0.0896 Acc: 0.9796
+
+Training complete in 5m 18s
+Best val Acc: 0.983687
+Val
+Acc:  0.9836867862969005
+Micro F1:  0.9836867862969005
+Train
+Acc:  0.9836867862969005
+Micro F1:  0.9836867862969005
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 128 0.01 7 0.1
+Epoch 1/15
+----------
+train Loss: 3.8931 Acc: 0.8346
+val Loss: 0.8684 Acc: 0.9763
+
+Epoch 2/15
+----------
+train Loss: 0.5089 Acc: 0.9719
+val Loss: 0.8034 Acc: 0.9788
+
+Epoch 3/15
+----------
+train Loss: 0.4232 Acc: 0.9798
+val Loss: 0.7309 Acc: 0.9763
+
+Epoch 4/15
+----------
+train Loss: 0.3116 Acc: 0.9796
+val Loss: 0.9452 Acc: 0.9633
+
+Epoch 5/15
+----------
+train Loss: 0.3796 Acc: 0.9743
+val Loss: 1.1767 Acc: 0.9633
+
+Epoch 6/15
+----------
+train Loss: 0.3936 Acc: 0.9749
+val Loss: 1.1403 Acc: 0.9739
+
+Epoch 7/15
+----------
+train Loss: 0.4203 Acc: 0.9772
+val Loss: 1.2019 Acc: 0.9666
+
+Epoch 8/15
+----------
+train Loss: 0.2426 Acc: 0.9837
+val Loss: 1.0966 Acc: 0.9731
+
+Epoch 9/15
+----------
+train Loss: 0.1851 Acc: 0.9882
+val Loss: 0.9972 Acc: 0.9755
+
+Epoch 10/15
+----------
+train Loss: 0.1814 Acc: 0.9898
+val Loss: 0.9688 Acc: 0.9772
+
+Epoch 11/15
+----------
+train Loss: 0.1472 Acc: 0.9931
+val Loss: 0.9516 Acc: 0.9763
+
+Epoch 12/15
+----------
+train Loss: 0.1572 Acc: 0.9910
+val Loss: 0.9668 Acc: 0.9747
+
+Epoch 13/15
+----------
+train Loss: 0.1178 Acc: 0.9920
+val Loss: 0.9496 Acc: 0.9780
+
+Epoch 14/15
+----------
+train Loss: 0.1395 Acc: 0.9918
+val Loss: 0.8877 Acc: 0.9780
+
+Epoch 15/15
+----------
+train Loss: 0.1504 Acc: 0.9918
+val Loss: 0.9177 Acc: 0.9772
+
+Training complete in 5m 17s
+Best val Acc: 0.978793
+Val
+Acc:  0.9787928221859706
+Micro F1:  0.9787928221859706
+Train
+Acc:  0.9787928221859706
+Micro F1:  0.9787928221859706
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 128 0.001 3 0.001
+Epoch 1/15
+----------
+train Loss: 0.8755 Acc: 0.8252
+val Loss: 0.2713 Acc: 0.9576
+
+Epoch 2/15
+----------
+train Loss: 0.2195 Acc: 0.9653
+val Loss: 0.1584 Acc: 0.9796
+
+Epoch 3/15
+----------
+train Loss: 0.1499 Acc: 0.9759
+val Loss: 0.1283 Acc: 0.9829
+
+Epoch 4/15
+----------
+train Loss: 0.1214 Acc: 0.9821
+val Loss: 0.1286 Acc: 0.9821
+
+Epoch 5/15
+----------
+train Loss: 0.1207 Acc: 0.9829
+val Loss: 0.1274 Acc: 0.9837
+
+Epoch 6/15
+----------
+train Loss: 0.1252 Acc: 0.9819
+val Loss: 0.1281 Acc: 0.9829
+
+Epoch 7/15
+----------
+train Loss: 0.1225 Acc: 0.9819
+val Loss: 0.1276 Acc: 0.9845
+
+Epoch 8/15
+----------
+train Loss: 0.1209 Acc: 0.9841
+val Loss: 0.1272 Acc: 0.9837
+
+Epoch 9/15
+----------
+train Loss: 0.1242 Acc: 0.9810
+val Loss: 0.1283 Acc: 0.9821
+
+Epoch 10/15
+----------
+train Loss: 0.1257 Acc: 0.9823
+val Loss: 0.1261 Acc: 0.9812
+
+Epoch 11/15
+----------
+train Loss: 0.1241 Acc: 0.9831
+val Loss: 0.1293 Acc: 0.9821
+
+Epoch 12/15
+----------
+train Loss: 0.1257 Acc: 0.9821
+val Loss: 0.1282 Acc: 0.9829
+
+Epoch 13/15
+----------
+train Loss: 0.1219 Acc: 0.9841
+val Loss: 0.1276 Acc: 0.9829
+
+Epoch 14/15
+----------
+train Loss: 0.1225 Acc: 0.9827
+val Loss: 0.1277 Acc: 0.9829
+
+Epoch 15/15
+----------
+train Loss: 0.1255 Acc: 0.9814
+val Loss: 0.1264 Acc: 0.9821
+
+Training complete in 5m 21s
+Best val Acc: 0.984502
+Val
+Acc:  0.9845024469820555
+Micro F1:  0.9845024469820555
+Train
+Acc:  0.9845024469820555
+Micro F1:  0.9845024469820555
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 128 0.001 3 0.01
+Epoch 1/15
+----------
+train Loss: 0.3845 Acc: 0.8874
+val Loss: 0.1083 Acc: 0.9804
+
+Epoch 2/15
+----------
+train Loss: 0.0876 Acc: 0.9745
+val Loss: 0.0879 Acc: 0.9812
+
+Epoch 3/15
+----------
+train Loss: 0.0615 Acc: 0.9823
+val Loss: 0.1059 Acc: 0.9780
+
+Epoch 4/15
+----------
+train Loss: 0.0534 Acc: 0.9843
+val Loss: 0.1036 Acc: 0.9821
+
+Epoch 5/15
+----------
+train Loss: 0.0471 Acc: 0.9855
+val Loss: 0.1020 Acc: 0.9796
+
+Epoch 6/15
+----------
+train Loss: 0.0480 Acc: 0.9869
+val Loss: 0.1025 Acc: 0.9796
+
+Epoch 7/15
+----------
+train Loss: 0.0501 Acc: 0.9861
+val Loss: 0.1006 Acc: 0.9804
+
+Epoch 8/15
+----------
+train Loss: 0.0444 Acc: 0.9865
+val Loss: 0.1033 Acc: 0.9796
+
+Epoch 9/15
+----------
+train Loss: 0.0489 Acc: 0.9880
+val Loss: 0.1042 Acc: 0.9796
+
+Epoch 10/15
+----------
+train Loss: 0.0530 Acc: 0.9867
+val Loss: 0.1019 Acc: 0.9788
+
+Epoch 11/15
+----------
+train Loss: 0.0492 Acc: 0.9863
+val Loss: 0.1026 Acc: 0.9796
+
+Epoch 12/15
+----------
+train Loss: 0.0463 Acc: 0.9861
+val Loss: 0.1036 Acc: 0.9788
+
+Epoch 13/15
+----------
+train Loss: 0.0444 Acc: 0.9869
+val Loss: 0.1021 Acc: 0.9796
+
+Epoch 14/15
+----------
+train Loss: 0.0463 Acc: 0.9872
+val Loss: 0.1001 Acc: 0.9796
+
+Epoch 15/15
+----------
+train Loss: 0.0488 Acc: 0.9876
+val Loss: 0.1015 Acc: 0.9804
+
+Training complete in 5m 21s
+Best val Acc: 0.982055
+Val
+Acc:  0.9820554649265906
+Micro F1:  0.9820554649265906
+Train
+Acc:  0.9820554649265906
+Micro F1:  0.9820554649265906
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 128 0.001 3 0.1
+Epoch 1/15
+----------
+train Loss: 5.5222 Acc: 0.7953
+val Loss: 0.7805 Acc: 0.9755
+
+Epoch 2/15
+----------
+train Loss: 0.5000 Acc: 0.9717
+val Loss: 0.5866 Acc: 0.9812
+
+Epoch 3/15
+----------
+train Loss: 0.3261 Acc: 0.9784
+val Loss: 0.6908 Acc: 0.9780
+
+Epoch 4/15
+----------
+train Loss: 0.3321 Acc: 0.9772
+val Loss: 0.6684 Acc: 0.9780
+
+Epoch 5/15
+----------
+train Loss: 0.3149 Acc: 0.9788
+val Loss: 0.6493 Acc: 0.9780
+
+Epoch 6/15
+----------
+train Loss: 0.3157 Acc: 0.9788
+val Loss: 0.6593 Acc: 0.9804
+
+Epoch 7/15
+----------
+train Loss: 0.3290 Acc: 0.9804
+val Loss: 0.6498 Acc: 0.9796
+
+Epoch 8/15
+----------
+train Loss: 0.2589 Acc: 0.9823
+val Loss: 0.6439 Acc: 0.9812
+
+Epoch 9/15
+----------
+train Loss: 0.2493 Acc: 0.9800
+val Loss: 0.6620 Acc: 0.9788
+
+Epoch 10/15
+----------
+train Loss: 0.2888 Acc: 0.9790
+val Loss: 0.6485 Acc: 0.9804
+
+Epoch 11/15
+----------
+train Loss: 0.2544 Acc: 0.9804
+val Loss: 0.6378 Acc: 0.9780
+
+Epoch 12/15
+----------
+train Loss: 0.2668 Acc: 0.9829
+val Loss: 0.6491 Acc: 0.9796
+
+Epoch 13/15
+----------
+train Loss: 0.2786 Acc: 0.9804
+val Loss: 0.6642 Acc: 0.9788
+
+Epoch 14/15
+----------
+train Loss: 0.2835 Acc: 0.9808
+val Loss: 0.6698 Acc: 0.9804
+
+Epoch 15/15
+----------
+train Loss: 0.3071 Acc: 0.9796
+val Loss: 0.6667 Acc: 0.9788
+
+Training complete in 5m 22s
+Best val Acc: 0.981240
+Val
+Acc:  0.9812398042414355
+Micro F1:  0.9812398042414355
+Train
+Acc:  0.9812398042414355
+Micro F1:  0.9812398042414355
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 128 0.001 5 0.001
+Epoch 1/15
+----------
+train Loss: 0.8894 Acc: 0.8224
+val Loss: 0.2666 Acc: 0.9698
+
+Epoch 2/15
+----------
+train Loss: 0.2197 Acc: 0.9670
+val Loss: 0.1619 Acc: 0.9780
+
+Epoch 3/15
+----------
+train Loss: 0.1551 Acc: 0.9733
+val Loss: 0.1294 Acc: 0.9804
+
+Epoch 4/15
+----------
+train Loss: 0.1155 Acc: 0.9837
+val Loss: 0.1084 Acc: 0.9812
+
+Epoch 5/15
+----------
+train Loss: 0.0971 Acc: 0.9847
+val Loss: 0.0974 Acc: 0.9837
+
+Epoch 6/15
+----------
+train Loss: 0.0894 Acc: 0.9872
+val Loss: 0.0990 Acc: 0.9837
+
+Epoch 7/15
+----------
+train Loss: 0.0854 Acc: 0.9886
+val Loss: 0.0986 Acc: 0.9829
+
+Epoch 8/15
+----------
+train Loss: 0.0905 Acc: 0.9855
+val Loss: 0.0964 Acc: 0.9837
+
+Epoch 9/15
+----------
+train Loss: 0.0833 Acc: 0.9876
+val Loss: 0.0994 Acc: 0.9837
+
+Epoch 10/15
+----------
+train Loss: 0.0855 Acc: 0.9880
+val Loss: 0.0980 Acc: 0.9845
+
+Epoch 11/15
+----------
+train Loss: 0.0876 Acc: 0.9876
+val Loss: 0.0975 Acc: 0.9829
+
+Epoch 12/15
+----------
+train Loss: 0.0859 Acc: 0.9878
+val Loss: 0.0991 Acc: 0.9829
+
+Epoch 13/15
+----------
+train Loss: 0.0861 Acc: 0.9882
+val Loss: 0.0976 Acc: 0.9821
+
+Epoch 14/15
+----------
+train Loss: 0.0867 Acc: 0.9869
+val Loss: 0.0988 Acc: 0.9829
+
+Epoch 15/15
+----------
+train Loss: 0.0864 Acc: 0.9884
+val Loss: 0.1009 Acc: 0.9829
+
+Training complete in 5m 24s
+Best val Acc: 0.984502
+Val
+Acc:  0.9845024469820555
+Micro F1:  0.9845024469820555
+Train
+Acc:  0.9845024469820555
+Micro F1:  0.9845024469820555
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 128 0.001 5 0.01
+Epoch 1/15
+----------
+train Loss: 0.3609 Acc: 0.8897
+val Loss: 0.0984 Acc: 0.9837
+
+Epoch 2/15
+----------
+train Loss: 0.0740 Acc: 0.9800
+val Loss: 0.0971 Acc: 0.9821
+
+Epoch 3/15
+----------
+train Loss: 0.0557 Acc: 0.9821
+val Loss: 0.1019 Acc: 0.9780
+
+Epoch 4/15
+----------
+train Loss: 0.0482 Acc: 0.9865
+val Loss: 0.1159 Acc: 0.9763
+
+Epoch 5/15
+----------
+train Loss: 0.0422 Acc: 0.9882
+val Loss: 0.1203 Acc: 0.9763
+
+Epoch 6/15
+----------
+train Loss: 0.0559 Acc: 0.9831
+val Loss: 0.1176 Acc: 0.9755
+
+Epoch 7/15
+----------
+train Loss: 0.0542 Acc: 0.9845
+val Loss: 0.1139 Acc: 0.9763
+
+Epoch 8/15
+----------
+train Loss: 0.0513 Acc: 0.9847
+val Loss: 0.1148 Acc: 0.9755
+
+Epoch 9/15
+----------
+train Loss: 0.0466 Acc: 0.9855
+val Loss: 0.1121 Acc: 0.9763
+
+Epoch 10/15
+----------
+train Loss: 0.0440 Acc: 0.9855
+val Loss: 0.1083 Acc: 0.9780
+
+Epoch 11/15
+----------
+train Loss: 0.0375 Acc: 0.9880
+val Loss: 0.1118 Acc: 0.9763
+
+Epoch 12/15
+----------
+train Loss: 0.0410 Acc: 0.9884
+val Loss: 0.1096 Acc: 0.9763
+
+Epoch 13/15
+----------
+train Loss: 0.0457 Acc: 0.9853
+val Loss: 0.1150 Acc: 0.9763
+
+Epoch 14/15
+----------
+train Loss: 0.0418 Acc: 0.9867
+val Loss: 0.1070 Acc: 0.9755
+
+Epoch 15/15
+----------
+train Loss: 0.0396 Acc: 0.9863
+val Loss: 0.1079 Acc: 0.9772
+
+Training complete in 5m 20s
+Best val Acc: 0.983687
+Val
+Acc:  0.9836867862969005
+Micro F1:  0.9836867862969005
+Train
+Acc:  0.9836867862969005
+Micro F1:  0.9836867862969005
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 128 0.001 5 0.1
+Epoch 1/15
+----------
+train Loss: 5.3909 Acc: 0.8179
+val Loss: 0.9363 Acc: 0.9780
+
+Epoch 2/15
+----------
+train Loss: 0.5559 Acc: 0.9704
+val Loss: 0.7925 Acc: 0.9772
+
+Epoch 3/15
+----------
+train Loss: 0.3415 Acc: 0.9778
+val Loss: 0.8016 Acc: 0.9755
+
+Epoch 4/15
+----------
+train Loss: 0.4215 Acc: 0.9759
+val Loss: 0.8063 Acc: 0.9739
+
+Epoch 5/15
+----------
+train Loss: 0.3668 Acc: 0.9790
+val Loss: 0.7238 Acc: 0.9804
+
+Epoch 6/15
+----------
+train Loss: 0.2386 Acc: 0.9855
+val Loss: 0.7181 Acc: 0.9796
+
+Epoch 7/15
+----------
+train Loss: 0.2365 Acc: 0.9841
+val Loss: 0.7279 Acc: 0.9780
+
+Epoch 8/15
+----------
+train Loss: 0.1859 Acc: 0.9867
+val Loss: 0.7131 Acc: 0.9804
+
+Epoch 9/15
+----------
+train Loss: 0.1760 Acc: 0.9872
+val Loss: 0.6780 Acc: 0.9796
+
+Epoch 10/15
+----------
+train Loss: 0.2280 Acc: 0.9841
+val Loss: 0.7128 Acc: 0.9812
+
+Epoch 11/15
+----------
+train Loss: 0.2052 Acc: 0.9865
+val Loss: 0.7079 Acc: 0.9812
+
+Epoch 12/15
+----------
+train Loss: 0.2110 Acc: 0.9861
+val Loss: 0.7088 Acc: 0.9796
+
+Epoch 13/15
+----------
+train Loss: 0.1990 Acc: 0.9861
+val Loss: 0.6885 Acc: 0.9804
+
+Epoch 14/15
+----------
+train Loss: 0.2254 Acc: 0.9851
+val Loss: 0.7177 Acc: 0.9804
+
+Epoch 15/15
+----------
+train Loss: 0.2256 Acc: 0.9859
+val Loss: 0.6912 Acc: 0.9804
+
+Training complete in 5m 22s
+Best val Acc: 0.981240
+Val
+Acc:  0.9812398042414355
+Micro F1:  0.9812398042414355
+Train
+Acc:  0.9812398042414355
+Micro F1:  0.9812398042414355
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 128 0.001 7 0.001
+Epoch 1/15
+----------
+train Loss: 0.9252 Acc: 0.8075
+val Loss: 0.2668 Acc: 0.9690
+
+Epoch 2/15
+----------
+train Loss: 0.2251 Acc: 0.9688
+val Loss: 0.1611 Acc: 0.9796
+
+Epoch 3/15
+----------
+train Loss: 0.1502 Acc: 0.9782
+val Loss: 0.1310 Acc: 0.9804
+
+Epoch 4/15
+----------
+train Loss: 0.1217 Acc: 0.9790
+val Loss: 0.1093 Acc: 0.9812
+
+Epoch 5/15
+----------
+train Loss: 0.0962 Acc: 0.9851
+val Loss: 0.0970 Acc: 0.9821
+
+Epoch 6/15
+----------
+train Loss: 0.0867 Acc: 0.9865
+val Loss: 0.0909 Acc: 0.9837
+
+Epoch 7/15
+----------
+train Loss: 0.0729 Acc: 0.9884
+val Loss: 0.0854 Acc: 0.9853
+
+Epoch 8/15
+----------
+train Loss: 0.0659 Acc: 0.9902
+val Loss: 0.0854 Acc: 0.9845
+
+Epoch 9/15
+----------
+train Loss: 0.0654 Acc: 0.9894
+val Loss: 0.0863 Acc: 0.9853
+
+Epoch 10/15
+----------
+train Loss: 0.0638 Acc: 0.9918
+val Loss: 0.0867 Acc: 0.9837
+
+Epoch 11/15
+----------
+train Loss: 0.0643 Acc: 0.9927
+val Loss: 0.0872 Acc: 0.9837
+
+Epoch 12/15
+----------
+train Loss: 0.0643 Acc: 0.9902
+val Loss: 0.0849 Acc: 0.9837
+
+Epoch 13/15
+----------
+train Loss: 0.0629 Acc: 0.9898
+val Loss: 0.0843 Acc: 0.9845
+
+Epoch 14/15
+----------
+train Loss: 0.0668 Acc: 0.9898
+val Loss: 0.0863 Acc: 0.9845
+
+Epoch 15/15
+----------
+train Loss: 0.0672 Acc: 0.9902
+val Loss: 0.0849 Acc: 0.9845
+
+Training complete in 5m 22s
+Best val Acc: 0.985318
+Val
+Acc:  0.9853181076672104
+Micro F1:  0.9853181076672104
+Train
+Acc:  0.9853181076672104
+Micro F1:  0.9853181076672104
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 128 0.001 7 0.01
+Epoch 1/15
+----------
+train Loss: 0.4646 Acc: 0.8642
+val Loss: 0.1129 Acc: 0.9780
+
+Epoch 2/15
+----------
+train Loss: 0.0849 Acc: 0.9765
+val Loss: 0.1286 Acc: 0.9772
+
+Epoch 3/15
+----------
+train Loss: 0.0787 Acc: 0.9774
+val Loss: 0.1185 Acc: 0.9772
+
+Epoch 4/15
+----------
+train Loss: 0.0528 Acc: 0.9886
+val Loss: 0.1306 Acc: 0.9812
+
+Epoch 5/15
+----------
+train Loss: 0.0507 Acc: 0.9857
+val Loss: 0.1408 Acc: 0.9780
+
+Epoch 6/15
+----------
+train Loss: 0.0519 Acc: 0.9867
+val Loss: 0.1411 Acc: 0.9788
+
+Epoch 7/15
+----------
+train Loss: 0.0444 Acc: 0.9886
+val Loss: 0.1645 Acc: 0.9772
+
+Epoch 8/15
+----------
+train Loss: 0.0358 Acc: 0.9898
+val Loss: 0.1610 Acc: 0.9763
+
+Epoch 9/15
+----------
+train Loss: 0.0321 Acc: 0.9904
+val Loss: 0.1594 Acc: 0.9755
+
+Epoch 10/15
+----------
+train Loss: 0.0406 Acc: 0.9894
+val Loss: 0.1590 Acc: 0.9763
+
+Epoch 11/15
+----------
+train Loss: 0.0324 Acc: 0.9906
+val Loss: 0.1568 Acc: 0.9772
+
+Epoch 12/15
+----------
+train Loss: 0.0302 Acc: 0.9910
+val Loss: 0.1596 Acc: 0.9772
+
+Epoch 13/15
+----------
+train Loss: 0.0305 Acc: 0.9929
+val Loss: 0.1579 Acc: 0.9772
+
+Epoch 14/15
+----------
+train Loss: 0.0290 Acc: 0.9925
+val Loss: 0.1597 Acc: 0.9763
+
+Epoch 15/15
+----------
+train Loss: 0.0317 Acc: 0.9916
+val Loss: 0.1540 Acc: 0.9763
+
+Training complete in 5m 23s
+Best val Acc: 0.981240
+Val
+Acc:  0.9812398042414355
+Micro F1:  0.9812398042414355
+Train
+Acc:  0.9812398042414355
+Micro F1:  0.9812398042414355
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 128 0.001 7 0.1
+Epoch 1/15
+----------
+train Loss: 4.9819 Acc: 0.8173
+val Loss: 0.6533 Acc: 0.9804
+
+Epoch 2/15
+----------
+train Loss: 0.5127 Acc: 0.9727
+val Loss: 0.8620 Acc: 0.9715
+
+Epoch 3/15
+----------
+train Loss: 0.5217 Acc: 0.9735
+val Loss: 0.6645 Acc: 0.9812
+
+Epoch 4/15
+----------
+train Loss: 0.3978 Acc: 0.9759
+val Loss: 0.7060 Acc: 0.9772
+
+Epoch 5/15
+----------
+train Loss: 0.5010 Acc: 0.9745
+val Loss: 0.7179 Acc: 0.9812
+
+Epoch 6/15
+----------
+train Loss: 0.3881 Acc: 0.9776
+val Loss: 0.6800 Acc: 0.9829
+
+Epoch 7/15
+----------
+train Loss: 0.4753 Acc: 0.9778
+val Loss: 1.0223 Acc: 0.9780
+
+Epoch 8/15
+----------
+train Loss: 0.2886 Acc: 0.9845
+val Loss: 1.0219 Acc: 0.9772
+
+Epoch 9/15
+----------
+train Loss: 0.2998 Acc: 0.9831
+val Loss: 1.0097 Acc: 0.9763
+
+Epoch 10/15
+----------
+train Loss: 0.3285 Acc: 0.9839
+val Loss: 1.0154 Acc: 0.9763
+
+Epoch 11/15
+----------
+train Loss: 0.3053 Acc: 0.9833
+val Loss: 1.0310 Acc: 0.9772
+
+Epoch 12/15
+----------
+train Loss: 0.2937 Acc: 0.9835
+val Loss: 0.9669 Acc: 0.9788
+
+Epoch 13/15
+----------
+train Loss: 0.3290 Acc: 0.9857
+val Loss: 0.9878 Acc: 0.9763
+
+Epoch 14/15
+----------
+train Loss: 0.2279 Acc: 0.9880
+val Loss: 0.9533 Acc: 0.9780
+
+Epoch 15/15
+----------
+train Loss: 0.2887 Acc: 0.9845
+val Loss: 0.9933 Acc: 0.9772
+
+Training complete in 5m 22s
+Best val Acc: 0.982871
+Val
+Acc:  0.9828711256117455
+Micro F1:  0.9828711256117455
+Train
+Acc:  0.9828711256117455
+Micro F1:  0.9828711256117455
+Done
+_____________________________________________
+
+
+Data shapes torch.Size([4904, 3, 300, 300]) torch.Size([1226, 3, 300, 300]) torch.Size([4904]) torch.Size([1226])
+fold-batch_size-gamma-step_size-learning_rate 1 256 0.1 3 0.001
+Epoch 1/15
+----------
+train Loss: 1.2185 Acc: 0.7347
+val Loss: 0.4444 Acc: 0.9347
+
+Epoch 2/15
+----------
+train Loss: 0.3534 Acc: 0.9568
+val Loss: 0.2253 Acc: 0.9731
+
+Epoch 3/15
+----------
+train Loss: 0.2119 Acc: 0.9700
+val Loss: 0.1647 Acc: 0.9772
+
+Epoch 4/15
+----------
+train Loss: 0.1732 Acc: 0.9747
+val Loss: 0.1604 Acc: 0.9780
+
+Epoch 5/15
+----------
+train Loss: 0.1712 Acc: 0.9753
+val Loss: 0.1564 Acc: 0.9763
+
+Epoch 6/15
+----------
+train Loss: 0.1663 Acc: 0.9745
+val Loss: 0.1544 Acc: 0.9772
+
+Epoch 7/15
+----------
+train Loss: 0.1646 Acc: 0.9772
+val Loss: 0.1556 Acc: 0.9772
+
+Epoch 8/15
+----------
+train Loss: 0.1597 Acc: 0.9774
+val Loss: 0.1551 Acc: 0.9772
+
+Epoch 9/15
+----------
+train Loss: 0.1632 Acc: 0.9774
+val Loss: 0.1539 Acc: 0.9780
+
+Epoch 10/15
+----------
+train Loss: 0.1620 Acc: 0.9768
+val Loss: 0.1548 Acc: 0.9780
+
+Epoch 11/15
+----------
+train Loss: 0.1567 Acc: 0.9800
+val Loss: 0.1538 Acc: 0.9796
+
+Epoch 12/15
+----------
+train Loss: 0.1596 Acc: 0.9788
+val Loss: 0.1531 Acc: 0.9772
+
+Epoch 13/15
+----------
+train Loss: 0.1606 Acc: 0.9768
+val Loss: 0.1555 Acc: 0.9772
+
+Epoch 14/15
+----------
+train Loss: 0.1605 Acc: 0.9780
+val Loss: 0.1536 Acc: 0.9772
+
+Epoch 15/15
+----------
+train Loss: 0.1620 Acc: 0.9751
+val Loss: 0.1519 Acc: 0.9780
+
+Training complete in 5m 20s
+Best val Acc: 0.979608
+Val
+Acc:  0.9796084828711256
+Micro F1:  0.9796084828711256
+Train
+Acc:  0.9796084828711256
+Micro F1:  0.9796084828711256
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 256 0.1 3 0.01
+Epoch 1/15
+----------
+train Loss: 0.7887 Acc: 0.7720
+val Loss: 0.1559 Acc: 0.9560
+
+Epoch 2/15
+----------
+train Loss: 0.1110 Acc: 0.9672
+val Loss: 0.1163 Acc: 0.9731
+
+Epoch 3/15
+----------
+train Loss: 0.0667 Acc: 0.9847
+val Loss: 0.1040 Acc: 0.9829
+
+Epoch 4/15
+----------
+train Loss: 0.0439 Acc: 0.9880
+val Loss: 0.0955 Acc: 0.9812
+
+Epoch 5/15
+----------
+train Loss: 0.0392 Acc: 0.9900
+val Loss: 0.0986 Acc: 0.9821
+
+Epoch 6/15
+----------
+train Loss: 0.0378 Acc: 0.9902
+val Loss: 0.0975 Acc: 0.9829
+
+Epoch 7/15
+----------
+train Loss: 0.0330 Acc: 0.9933
+val Loss: 0.0965 Acc: 0.9829
+
+Epoch 8/15
+----------
+train Loss: 0.0369 Acc: 0.9923
+val Loss: 0.0969 Acc: 0.9829
+
+Epoch 9/15
+----------
+train Loss: 0.0355 Acc: 0.9912
+val Loss: 0.0979 Acc: 0.9829
+
+Epoch 10/15
+----------
+train Loss: 0.0368 Acc: 0.9914
+val Loss: 0.0963 Acc: 0.9829
+
+Epoch 11/15
+----------
+train Loss: 0.0374 Acc: 0.9910
+val Loss: 0.0940 Acc: 0.9829
+
+Epoch 12/15
+----------
+train Loss: 0.0408 Acc: 0.9902
+val Loss: 0.0932 Acc: 0.9829
+
+Epoch 13/15
+----------
+train Loss: 0.0382 Acc: 0.9902
+val Loss: 0.0942 Acc: 0.9829
+
+Epoch 14/15
+----------
+train Loss: 0.0374 Acc: 0.9916
+val Loss: 0.0960 Acc: 0.9829
+
+Epoch 15/15
+----------
+train Loss: 0.0369 Acc: 0.9896
+val Loss: 0.0961 Acc: 0.9829
+
+Training complete in 5m 17s
+Best val Acc: 0.982871
+Val
+Acc:  0.9828711256117455
+Micro F1:  0.9828711256117455
+Train
+Acc:  0.9828711256117455
+Micro F1:  0.9828711256117455
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 256 0.1 3 0.1
+Epoch 1/15
+----------
+train Loss: 6.1385 Acc: 0.7496
+val Loss: 0.9126 Acc: 0.9576
+
+Epoch 2/15
+----------
+train Loss: 0.6865 Acc: 0.9643
+val Loss: 0.6366 Acc: 0.9829
+
+Epoch 3/15
+----------
+train Loss: 0.4851 Acc: 0.9725
+val Loss: 0.7037 Acc: 0.9788
+
+Epoch 4/15
+----------
+train Loss: 0.3721 Acc: 0.9806
+val Loss: 0.6366 Acc: 0.9804
+
+Epoch 5/15
+----------
+train Loss: 0.2016 Acc: 0.9880
+val Loss: 0.6016 Acc: 0.9821
+
+Epoch 6/15
+----------
+train Loss: 0.1624 Acc: 0.9902
+val Loss: 0.5846 Acc: 0.9829
+
+Epoch 7/15
+----------
+train Loss: 0.1870 Acc: 0.9886
+val Loss: 0.5847 Acc: 0.9829
+
+Epoch 8/15
+----------
+train Loss: 0.2266 Acc: 0.9865
+val Loss: 0.5786 Acc: 0.9837
+
+Epoch 9/15
+----------
+train Loss: 0.1532 Acc: 0.9890
+val Loss: 0.5870 Acc: 0.9837
+
+Epoch 10/15
+----------
+train Loss: 0.1740 Acc: 0.9880
+val Loss: 0.5737 Acc: 0.9829
+
+Epoch 11/15
+----------
+train Loss: 0.1566 Acc: 0.9890
+val Loss: 0.5700 Acc: 0.9837
+
+Epoch 12/15
+----------
+train Loss: 0.1777 Acc: 0.9882
+val Loss: 0.5772 Acc: 0.9837
+
+Epoch 13/15
+----------
+train Loss: 0.1659 Acc: 0.9884
+val Loss: 0.5790 Acc: 0.9837
+
+Epoch 14/15
+----------
+train Loss: 0.1970 Acc: 0.9882
+val Loss: 0.5741 Acc: 0.9829
+
+Epoch 15/15
+----------
+train Loss: 0.1778 Acc: 0.9880
+val Loss: 0.5692 Acc: 0.9829
+
+Training complete in 5m 17s
+Best val Acc: 0.983687
+Val
+Acc:  0.9836867862969005
+Micro F1:  0.9836867862969005
+Train
+Acc:  0.9836867862969005
+Micro F1:  0.9836867862969005
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 256 0.1 5 0.001
+Epoch 1/15
+----------
+train Loss: 1.3573 Acc: 0.6707
+val Loss: 0.5106 Acc: 0.9380
+
+Epoch 2/15
+----------
+train Loss: 0.3952 Acc: 0.9478
+val Loss: 0.2484 Acc: 0.9698
+
+Epoch 3/15
+----------
+train Loss: 0.2312 Acc: 0.9657
+val Loss: 0.1816 Acc: 0.9755
+
+Epoch 4/15
+----------
+train Loss: 0.1788 Acc: 0.9712
+val Loss: 0.1526 Acc: 0.9772
+
+Epoch 5/15
+----------
+train Loss: 0.1476 Acc: 0.9774
+val Loss: 0.1317 Acc: 0.9804
+
+Epoch 6/15
+----------
+train Loss: 0.1300 Acc: 0.9821
+val Loss: 0.1313 Acc: 0.9796
+
+Epoch 7/15
+----------
+train Loss: 0.1247 Acc: 0.9839
+val Loss: 0.1301 Acc: 0.9804
+
+Epoch 8/15
+----------
+train Loss: 0.1252 Acc: 0.9833
+val Loss: 0.1290 Acc: 0.9796
+
+Epoch 9/15
+----------
+train Loss: 0.1209 Acc: 0.9831
+val Loss: 0.1261 Acc: 0.9812
+
+Epoch 10/15
+----------
+train Loss: 0.1227 Acc: 0.9806
+val Loss: 0.1250 Acc: 0.9812
+
+Epoch 11/15
+----------
+train Loss: 0.1186 Acc: 0.9841
+val Loss: 0.1242 Acc: 0.9804
+
+Epoch 12/15
+----------
+train Loss: 0.1188 Acc: 0.9819
+val Loss: 0.1255 Acc: 0.9804
+
+Epoch 13/15
+----------
+train Loss: 0.1182 Acc: 0.9865
+val Loss: 0.1241 Acc: 0.9812
+
+Epoch 14/15
+----------
+train Loss: 0.1182 Acc: 0.9835
+val Loss: 0.1254 Acc: 0.9804
+
+Epoch 15/15
+----------
+train Loss: 0.1184 Acc: 0.9814
+val Loss: 0.1238 Acc: 0.9812
+
+Training complete in 5m 16s
+Best val Acc: 0.981240
+Val
+Acc:  0.9812398042414355
+Micro F1:  0.9812398042414355
+Train
+Acc:  0.9812398042414355
+Micro F1:  0.9812398042414355
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 256 0.1 5 0.01
+Epoch 1/15
+----------
+train Loss: 0.8941 Acc: 0.7369
+val Loss: 0.1739 Acc: 0.9535
+
+Epoch 2/15
+----------
+train Loss: 0.1200 Acc: 0.9662
+val Loss: 0.1055 Acc: 0.9780
+
+Epoch 3/15
+----------
+train Loss: 0.0767 Acc: 0.9778
+val Loss: 0.1144 Acc: 0.9772
+
+Epoch 4/15
+----------
+train Loss: 0.0493 Acc: 0.9867
+val Loss: 0.0858 Acc: 0.9821
+
+Epoch 5/15
+----------
+train Loss: 0.0418 Acc: 0.9898
+val Loss: 0.0804 Acc: 0.9861
+
+Epoch 6/15
+----------
+train Loss: 0.0347 Acc: 0.9908
+val Loss: 0.0835 Acc: 0.9845
+
+Epoch 7/15
+----------
+train Loss: 0.0309 Acc: 0.9935
+val Loss: 0.0854 Acc: 0.9821
+
+Epoch 8/15
+----------
+train Loss: 0.0318 Acc: 0.9929
+val Loss: 0.0855 Acc: 0.9837
+
+Epoch 9/15
+----------
+train Loss: 0.0286 Acc: 0.9941
+val Loss: 0.0894 Acc: 0.9837
+
+Epoch 10/15
+----------
+train Loss: 0.0301 Acc: 0.9929
+val Loss: 0.0879 Acc: 0.9837
+
+Epoch 11/15
+----------
+train Loss: 0.0248 Acc: 0.9953
+val Loss: 0.0869 Acc: 0.9845
+
+Epoch 12/15
+----------
+train Loss: 0.0247 Acc: 0.9939
+val Loss: 0.0862 Acc: 0.9845
+
+Epoch 13/15
+----------
+train Loss: 0.0251 Acc: 0.9943
+val Loss: 0.0868 Acc: 0.9845
+
+Epoch 14/15
+----------
+train Loss: 0.0277 Acc: 0.9931
+val Loss: 0.0865 Acc: 0.9845
+
+Epoch 15/15
+----------
+train Loss: 0.0257 Acc: 0.9955
+val Loss: 0.0876 Acc: 0.9845
+
+Training complete in 5m 16s
+Best val Acc: 0.986134
+Val
+Acc:  0.9861337683523654
+Micro F1:  0.9861337683523654
+Train
+Acc:  0.9861337683523654
+Micro F1:  0.9861337683523654
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 256 0.1 5 0.1
+Epoch 1/15
+----------
+train Loss: 9.4297 Acc: 0.7047
+val Loss: 1.7243 Acc: 0.9315
+
+Epoch 2/15
+----------
+train Loss: 0.8569 Acc: 0.9527
+val Loss: 0.6124 Acc: 0.9739
+
+Epoch 3/15
+----------
+train Loss: 0.4303 Acc: 0.9733
+val Loss: 0.4614 Acc: 0.9804
+
+Epoch 4/15
+----------
+train Loss: 0.2988 Acc: 0.9829
+val Loss: 0.6228 Acc: 0.9747
+
+Epoch 5/15
+----------
+train Loss: 0.2158 Acc: 0.9839
+val Loss: 0.6106 Acc: 0.9796
+
+Epoch 6/15
+----------
+train Loss: 0.2370 Acc: 0.9827
+val Loss: 0.5674 Acc: 0.9788
+
+Epoch 7/15
+----------
+train Loss: 0.1513 Acc: 0.9874
+val Loss: 0.5454 Acc: 0.9804
+
+Epoch 8/15
+----------
+train Loss: 0.1289 Acc: 0.9902
+val Loss: 0.5304 Acc: 0.9812
+
+Epoch 9/15
+----------
+train Loss: 0.1348 Acc: 0.9910
+val Loss: 0.5237 Acc: 0.9804
+
+Epoch 10/15
+----------
+train Loss: 0.1289 Acc: 0.9892
+val Loss: 0.4992 Acc: 0.9837
+
+Epoch 11/15
+----------
+train Loss: 0.1212 Acc: 0.9910
+val Loss: 0.4985 Acc: 0.9829
+
+Epoch 12/15
+----------
+train Loss: 0.0953 Acc: 0.9923
+val Loss: 0.5094 Acc: 0.9837
+
+Epoch 13/15
+----------
+train Loss: 0.1021 Acc: 0.9912
+val Loss: 0.4990 Acc: 0.9837
+
+Epoch 14/15
+----------
+train Loss: 0.1177 Acc: 0.9908
+val Loss: 0.5056 Acc: 0.9829
+
+Epoch 15/15
+----------
+train Loss: 0.1256 Acc: 0.9904
+val Loss: 0.5088 Acc: 0.9829
+
+Training complete in 5m 17s
+Best val Acc: 0.983687
+Val
+Acc:  0.9836867862969005
+Micro F1:  0.9836867862969005
+Train
+Acc:  0.9836867862969005
+Micro F1:  0.9836867862969005
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 256 0.1 7 0.001
+Epoch 1/15
+----------
+train Loss: 1.3041 Acc: 0.6966
+val Loss: 0.4880 Acc: 0.9380
+
+Epoch 2/15
+----------
+train Loss: 0.3820 Acc: 0.9498
+val Loss: 0.2384 Acc: 0.9674
+
+Epoch 3/15
+----------
+train Loss: 0.2205 Acc: 0.9694
+val Loss: 0.1741 Acc: 0.9739
+
+Epoch 4/15
+----------
+train Loss: 0.1674 Acc: 0.9725
+val Loss: 0.1473 Acc: 0.9796
+
+Epoch 5/15
+----------
+train Loss: 0.1382 Acc: 0.9796
+val Loss: 0.1280 Acc: 0.9780
+
+Epoch 6/15
+----------
+train Loss: 0.1180 Acc: 0.9841
+val Loss: 0.1186 Acc: 0.9804
+
+Epoch 7/15
+----------
+train Loss: 0.1042 Acc: 0.9853
+val Loss: 0.1065 Acc: 0.9845
+
+Epoch 8/15
+----------
+train Loss: 0.0969 Acc: 0.9851
+val Loss: 0.1071 Acc: 0.9845
+
+Epoch 9/15
+----------
+train Loss: 0.0949 Acc: 0.9874
+val Loss: 0.1072 Acc: 0.9837
+
+Epoch 10/15
+----------
+train Loss: 0.0939 Acc: 0.9867
+val Loss: 0.1082 Acc: 0.9829
+
+Epoch 11/15
+----------
+train Loss: 0.0905 Acc: 0.9888
+val Loss: 0.1063 Acc: 0.9829
+
+Epoch 12/15
+----------
+train Loss: 0.0904 Acc: 0.9872
+val Loss: 0.1084 Acc: 0.9829
+
+Epoch 13/15
+----------
+train Loss: 0.0895 Acc: 0.9878
+val Loss: 0.1060 Acc: 0.9821
+
+Epoch 14/15
+----------
+train Loss: 0.0901 Acc: 0.9874
+val Loss: 0.1049 Acc: 0.9845
+
+Epoch 15/15
+----------
+train Loss: 0.0892 Acc: 0.9874
+val Loss: 0.1045 Acc: 0.9837
+
+Training complete in 5m 16s
+Best val Acc: 0.984502
+Val
+Acc:  0.9845024469820555
+Micro F1:  0.9845024469820555
+Train
+Acc:  0.9845024469820555
+Micro F1:  0.9845024469820555
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 256 0.1 7 0.01
+Epoch 1/15
+----------
+train Loss: 0.7422 Acc: 0.7735
+val Loss: 0.1272 Acc: 0.9674
+
+Epoch 2/15
+----------
+train Loss: 0.0847 Acc: 0.9731
+val Loss: 0.0981 Acc: 0.9812
+
+Epoch 3/15
+----------
+train Loss: 0.0554 Acc: 0.9861
+val Loss: 0.0932 Acc: 0.9821
+
+Epoch 4/15
+----------
+train Loss: 0.0451 Acc: 0.9876
+val Loss: 0.0861 Acc: 0.9837
+
+Epoch 5/15
+----------
+train Loss: 0.0424 Acc: 0.9892
+val Loss: 0.0959 Acc: 0.9796
+
+Epoch 6/15
+----------
+train Loss: 0.0486 Acc: 0.9853
+val Loss: 0.0904 Acc: 0.9812
+
+Epoch 7/15
+----------
+train Loss: 0.0472 Acc: 0.9865
+val Loss: 0.1016 Acc: 0.9804
+
+Epoch 8/15
+----------
+train Loss: 0.0354 Acc: 0.9906
+val Loss: 0.1016 Acc: 0.9804
+
+Epoch 9/15
+----------
+train Loss: 0.0273 Acc: 0.9925
+val Loss: 0.1002 Acc: 0.9821
+
+Epoch 10/15
+----------
+train Loss: 0.0239 Acc: 0.9945
+val Loss: 0.0973 Acc: 0.9821
+
+Epoch 11/15
+----------
+train Loss: 0.0244 Acc: 0.9947
+val Loss: 0.0976 Acc: 0.9829
+
+Epoch 12/15
+----------
+train Loss: 0.0220 Acc: 0.9945
+val Loss: 0.0973 Acc: 0.9821
+
+Epoch 13/15
+----------
+train Loss: 0.0182 Acc: 0.9957
+val Loss: 0.0951 Acc: 0.9821
+
+Epoch 14/15
+----------
+train Loss: 0.0238 Acc: 0.9943
+val Loss: 0.0942 Acc: 0.9829
+
+Epoch 15/15
+----------
+train Loss: 0.0185 Acc: 0.9953
+val Loss: 0.0962 Acc: 0.9837
+
+Training complete in 5m 17s
+Best val Acc: 0.983687
+Val
+Acc:  0.9836867862969005
+Micro F1:  0.9836867862969005
+Train
+Acc:  0.9836867862969005
+Micro F1:  0.9836867862969005
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 256 0.1 7 0.1
+Epoch 1/15
+----------
+train Loss: 11.7870 Acc: 0.6474
+val Loss: 1.4000 Acc: 0.9388
+
+Epoch 2/15
+----------
+train Loss: 1.0113 Acc: 0.9537
+val Loss: 0.7637 Acc: 0.9739
+
+Epoch 3/15
+----------
+train Loss: 0.4602 Acc: 0.9719
+val Loss: 0.7213 Acc: 0.9763
+
+Epoch 4/15
+----------
+train Loss: 0.2914 Acc: 0.9816
+val Loss: 0.6269 Acc: 0.9821
+
+Epoch 5/15
+----------
+train Loss: 0.2790 Acc: 0.9821
+val Loss: 0.5759 Acc: 0.9804
+
+Epoch 6/15
+----------
+train Loss: 0.3220 Acc: 0.9782
+val Loss: 0.6007 Acc: 0.9804
+
+Epoch 7/15
+----------
+train Loss: 0.1769 Acc: 0.9882
+val Loss: 0.5959 Acc: 0.9812
+
+Epoch 8/15
+----------
+train Loss: 0.1415 Acc: 0.9892
+val Loss: 0.5709 Acc: 0.9804
+
+Epoch 9/15
+----------
+train Loss: 0.1105 Acc: 0.9908
+val Loss: 0.5733 Acc: 0.9812
+
+Epoch 10/15
+----------
+train Loss: 0.1332 Acc: 0.9902
+val Loss: 0.5884 Acc: 0.9804
+
+Epoch 11/15
+----------
+train Loss: 0.0853 Acc: 0.9929
+val Loss: 0.5826 Acc: 0.9812
+
+Epoch 12/15
+----------
+train Loss: 0.1222 Acc: 0.9927
+val Loss: 0.5603 Acc: 0.9821
+
+Epoch 13/15
+----------
+train Loss: 0.0917 Acc: 0.9927
+val Loss: 0.5514 Acc: 0.9804
+
+Epoch 14/15
+----------
+train Loss: 0.0790 Acc: 0.9927
+val Loss: 0.5707 Acc: 0.9788
+
+Epoch 15/15
+----------
+train Loss: 0.0966 Acc: 0.9933
+val Loss: 0.5594 Acc: 0.9804
+
+Training complete in 5m 16s
+Best val Acc: 0.982055
+Val
+Acc:  0.9820554649265906
+Micro F1:  0.9820554649265906
+Train
+Acc:  0.9820554649265906
+Micro F1:  0.9820554649265906
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 256 0.01 3 0.001
+Epoch 1/15
+----------
+train Loss: 1.2390 Acc: 0.7418
+val Loss: 0.4651 Acc: 0.9429
+
+Epoch 2/15
+----------
+train Loss: 0.3626 Acc: 0.9527
+val Loss: 0.2323 Acc: 0.9715
+
+Epoch 3/15
+----------
+train Loss: 0.2184 Acc: 0.9694
+val Loss: 0.1698 Acc: 0.9788
+
+Epoch 4/15
+----------
+train Loss: 0.1825 Acc: 0.9755
+val Loss: 0.1684 Acc: 0.9772
+
+Epoch 5/15
+----------
+train Loss: 0.1821 Acc: 0.9731
+val Loss: 0.1692 Acc: 0.9788
+
+Epoch 6/15
+----------
+train Loss: 0.1786 Acc: 0.9749
+val Loss: 0.1685 Acc: 0.9788
+
+Epoch 7/15
+----------
+train Loss: 0.1783 Acc: 0.9759
+val Loss: 0.1694 Acc: 0.9796
+
+Epoch 8/15
+----------
+train Loss: 0.1807 Acc: 0.9743
+val Loss: 0.1672 Acc: 0.9788
+
+Epoch 9/15
+----------
+train Loss: 0.1792 Acc: 0.9751
+val Loss: 0.1687 Acc: 0.9788
+
+Epoch 10/15
+----------
+train Loss: 0.1764 Acc: 0.9749
+val Loss: 0.1674 Acc: 0.9788
+
+Epoch 11/15
+----------
+train Loss: 0.1782 Acc: 0.9737
+val Loss: 0.1684 Acc: 0.9780
+
+Epoch 12/15
+----------
+train Loss: 0.1776 Acc: 0.9741
+val Loss: 0.1677 Acc: 0.9780
+
+Epoch 13/15
+----------
+train Loss: 0.1803 Acc: 0.9747
+val Loss: 0.1688 Acc: 0.9788
+
+Epoch 14/15
+----------
+train Loss: 0.1780 Acc: 0.9761
+val Loss: 0.1682 Acc: 0.9796
+
+Epoch 15/15
+----------
+train Loss: 0.1804 Acc: 0.9745
+val Loss: 0.1681 Acc: 0.9788
+
+Training complete in 5m 17s
+Best val Acc: 0.979608
+Val
+Acc:  0.9796084828711256
+Micro F1:  0.9796084828711256
+Train
+Acc:  0.9796084828711256
+Micro F1:  0.9796084828711256
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 256 0.01 3 0.01
+Epoch 1/15
+----------
+train Loss: 0.6453 Acc: 0.8114
+val Loss: 0.1375 Acc: 0.9657
+
+Epoch 2/15
+----------
+train Loss: 0.0925 Acc: 0.9739
+val Loss: 0.1014 Acc: 0.9821
+
+Epoch 3/15
+----------
+train Loss: 0.0505 Acc: 0.9853
+val Loss: 0.1004 Acc: 0.9837
+
+Epoch 4/15
+----------
+train Loss: 0.0429 Acc: 0.9886
+val Loss: 0.0990 Acc: 0.9861
+
+Epoch 5/15
+----------
+train Loss: 0.0476 Acc: 0.9867
+val Loss: 0.0971 Acc: 0.9861
+
+Epoch 6/15
+----------
+train Loss: 0.0404 Acc: 0.9912
+val Loss: 0.0964 Acc: 0.9869
+
+Epoch 7/15
+----------
+train Loss: 0.0391 Acc: 0.9902
+val Loss: 0.0947 Acc: 0.9869
+
+Epoch 8/15
+----------
+train Loss: 0.0433 Acc: 0.9894
+val Loss: 0.0956 Acc: 0.9869
+
+Epoch 9/15
+----------
+train Loss: 0.0419 Acc: 0.9896
+val Loss: 0.0931 Acc: 0.9869
+
+Epoch 10/15
+----------
+train Loss: 0.0423 Acc: 0.9902
+val Loss: 0.0932 Acc: 0.9869
+
+Epoch 11/15
+----------
+train Loss: 0.0376 Acc: 0.9902
+val Loss: 0.0950 Acc: 0.9861
+
+Epoch 12/15
+----------
+train Loss: 0.0458 Acc: 0.9894
+val Loss: 0.0944 Acc: 0.9853
+
+Epoch 13/15
+----------
+train Loss: 0.0421 Acc: 0.9886
+val Loss: 0.0956 Acc: 0.9853
+
+Epoch 14/15
+----------
+train Loss: 0.0454 Acc: 0.9892
+val Loss: 0.0962 Acc: 0.9861
+
+Epoch 15/15
+----------
+train Loss: 0.0390 Acc: 0.9898
+val Loss: 0.0922 Acc: 0.9869
+
+Training complete in 5m 17s
+Best val Acc: 0.986949
+Val
+Acc:  0.9869494290375204
+Micro F1:  0.9869494290375204
+Train
+Acc:  0.9869494290375204
+Micro F1:  0.9869494290375204
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 256 0.01 3 0.1
+Epoch 1/15
+----------
+train Loss: 8.8487 Acc: 0.6962
+val Loss: 0.8222 Acc: 0.9511
+
+Epoch 2/15
+----------
+train Loss: 0.8276 Acc: 0.9535
+val Loss: 0.6439 Acc: 0.9780
+
+Epoch 3/15
+----------
+train Loss: 0.4200 Acc: 0.9759
+val Loss: 0.6320 Acc: 0.9821
+
+Epoch 4/15
+----------
+train Loss: 0.2877 Acc: 0.9839
+val Loss: 0.6174 Acc: 0.9821
+
+Epoch 5/15
+----------
+train Loss: 0.3083 Acc: 0.9814
+val Loss: 0.6086 Acc: 0.9821
+
+Epoch 6/15
+----------
+train Loss: 0.2597 Acc: 0.9837
+val Loss: 0.6043 Acc: 0.9845
+
+Epoch 7/15
+----------
+train Loss: 0.2450 Acc: 0.9829
+val Loss: 0.6157 Acc: 0.9837
+
+Epoch 8/15
+----------
+train Loss: 0.2633 Acc: 0.9841
+val Loss: 0.6188 Acc: 0.9829
+
+Epoch 9/15
+----------
+train Loss: 0.2970 Acc: 0.9827
+val Loss: 0.6114 Acc: 0.9821
+
+Epoch 10/15
+----------
+train Loss: 0.2542 Acc: 0.9839
+val Loss: 0.6129 Acc: 0.9837
+
+Epoch 11/15
+----------
+train Loss: 0.2522 Acc: 0.9849
+val Loss: 0.6126 Acc: 0.9845
+
+Epoch 12/15
+----------
+train Loss: 0.2598 Acc: 0.9841
+val Loss: 0.6175 Acc: 0.9837
+
+Epoch 13/15
+----------
+train Loss: 0.2656 Acc: 0.9831
+val Loss: 0.6084 Acc: 0.9837
+
+Epoch 14/15
+----------
+train Loss: 0.2615 Acc: 0.9851
+val Loss: 0.6190 Acc: 0.9837
+
+Epoch 15/15
+----------
+train Loss: 0.2254 Acc: 0.9851
+val Loss: 0.6312 Acc: 0.9829
+
+Training complete in 5m 17s
+Best val Acc: 0.984502
+Val
+Acc:  0.9845024469820555
+Micro F1:  0.9845024469820555
+Train
+Acc:  0.9845024469820555
+Micro F1:  0.9845024469820555
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 256 0.01 5 0.001
+Epoch 1/15
+----------
+train Loss: 1.2355 Acc: 0.7302
+val Loss: 0.4559 Acc: 0.9421
+
+Epoch 2/15
+----------
+train Loss: 0.3557 Acc: 0.9580
+val Loss: 0.2229 Acc: 0.9682
+
+Epoch 3/15
+----------
+train Loss: 0.2067 Acc: 0.9741
+val Loss: 0.1685 Acc: 0.9747
+
+Epoch 4/15
+----------
+train Loss: 0.1607 Acc: 0.9776
+val Loss: 0.1396 Acc: 0.9788
+
+Epoch 5/15
+----------
+train Loss: 0.1331 Acc: 0.9796
+val Loss: 0.1259 Acc: 0.9788
+
+Epoch 6/15
+----------
+train Loss: 0.1182 Acc: 0.9829
+val Loss: 0.1257 Acc: 0.9780
+
+Epoch 7/15
+----------
+train Loss: 0.1184 Acc: 0.9839
+val Loss: 0.1252 Acc: 0.9804
+
+Epoch 8/15
+----------
+train Loss: 0.1189 Acc: 0.9831
+val Loss: 0.1251 Acc: 0.9804
+
+Epoch 9/15
+----------
+train Loss: 0.1190 Acc: 0.9829
+val Loss: 0.1258 Acc: 0.9788
+
+Epoch 10/15
+----------
+train Loss: 0.1181 Acc: 0.9843
+val Loss: 0.1242 Acc: 0.9796
+
+Epoch 11/15
+----------
+train Loss: 0.1173 Acc: 0.9839
+val Loss: 0.1253 Acc: 0.9780
+
+Epoch 12/15
+----------
+train Loss: 0.1201 Acc: 0.9839
+val Loss: 0.1241 Acc: 0.9780
+
+Epoch 13/15
+----------
+train Loss: 0.1163 Acc: 0.9851
+val Loss: 0.1242 Acc: 0.9772
+
+Epoch 14/15
+----------
+train Loss: 0.1161 Acc: 0.9845
+val Loss: 0.1248 Acc: 0.9796
+
+Epoch 15/15
+----------
+train Loss: 0.1176 Acc: 0.9841
+val Loss: 0.1250 Acc: 0.9796
+
+Training complete in 5m 17s
+Best val Acc: 0.980424
+Val
+Acc:  0.9804241435562806
+Micro F1:  0.9804241435562806
+Train
+Acc:  0.9804241435562806
+Micro F1:  0.9804241435562806
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 256 0.01 5 0.01
+Epoch 1/15
+----------
+train Loss: 0.6561 Acc: 0.8002
+val Loss: 0.1630 Acc: 0.9608
+
+Epoch 2/15
+----------
+train Loss: 0.0944 Acc: 0.9757
+val Loss: 0.1086 Acc: 0.9804
+
+Epoch 3/15
+----------
+train Loss: 0.0801 Acc: 0.9796
+val Loss: 0.0922 Acc: 0.9829
+
+Epoch 4/15
+----------
+train Loss: 0.0536 Acc: 0.9855
+val Loss: 0.0944 Acc: 0.9812
+
+Epoch 5/15
+----------
+train Loss: 0.0388 Acc: 0.9894
+val Loss: 0.0869 Acc: 0.9829
+
+Epoch 6/15
+----------
+train Loss: 0.0273 Acc: 0.9941
+val Loss: 0.0883 Acc: 0.9804
+
+Epoch 7/15
+----------
+train Loss: 0.0291 Acc: 0.9933
+val Loss: 0.0888 Acc: 0.9821
+
+Epoch 8/15
+----------
+train Loss: 0.0276 Acc: 0.9935
+val Loss: 0.0869 Acc: 0.9812
+
+Epoch 9/15
+----------
+train Loss: 0.0289 Acc: 0.9923
+val Loss: 0.0875 Acc: 0.9821
+
+Epoch 10/15
+----------
+train Loss: 0.0244 Acc: 0.9943
+val Loss: 0.0855 Acc: 0.9821
+
+Epoch 11/15
+----------
+train Loss: 0.0270 Acc: 0.9933
+val Loss: 0.0847 Acc: 0.9821
+
+Epoch 12/15
+----------
+train Loss: 0.0268 Acc: 0.9941
+val Loss: 0.0865 Acc: 0.9829
+
+Epoch 13/15
+----------
+train Loss: 0.0292 Acc: 0.9929
+val Loss: 0.0855 Acc: 0.9821
+
+Epoch 14/15
+----------
+train Loss: 0.0276 Acc: 0.9927
+val Loss: 0.0854 Acc: 0.9821
+
+Epoch 15/15
+----------
+train Loss: 0.0284 Acc: 0.9933
+val Loss: 0.0874 Acc: 0.9829
+
+Training complete in 5m 17s
+Best val Acc: 0.982871
+Val
+Acc:  0.9828711256117455
+Micro F1:  0.9828711256117455
+Train
+Acc:  0.9828711256117455
+Micro F1:  0.9828711256117455
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 256 0.01 5 0.1
+Epoch 1/15
+----------
+train Loss: 11.4382 Acc: 0.6692
+val Loss: 1.1606 Acc: 0.9535
+
+Epoch 2/15
+----------
+train Loss: 0.9709 Acc: 0.9523
+val Loss: 0.8097 Acc: 0.9772
+
+Epoch 3/15
+----------
+train Loss: 0.4015 Acc: 0.9755
+val Loss: 0.6551 Acc: 0.9821
+
+Epoch 4/15
+----------
+train Loss: 0.3259 Acc: 0.9833
+val Loss: 0.6584 Acc: 0.9837
+
+Epoch 5/15
+----------
+train Loss: 0.2076 Acc: 0.9839
+val Loss: 0.6837 Acc: 0.9804
+
+Epoch 6/15
+----------
+train Loss: 0.1902 Acc: 0.9882
+val Loss: 0.6548 Acc: 0.9796
+
+Epoch 7/15
+----------
+train Loss: 0.2285 Acc: 0.9867
+val Loss: 0.6557 Acc: 0.9812
+
+Epoch 8/15
+----------
+train Loss: 0.1937 Acc: 0.9892
+val Loss: 0.6633 Acc: 0.9837
+
+Epoch 9/15
+----------
+train Loss: 0.1471 Acc: 0.9896
+val Loss: 0.6589 Acc: 0.9821
+
+Epoch 10/15
+----------
+train Loss: 0.1810 Acc: 0.9878
+val Loss: 0.6453 Acc: 0.9821
+
+Epoch 11/15
+----------
+train Loss: 0.1679 Acc: 0.9892
+val Loss: 0.6323 Acc: 0.9821
+
+Epoch 12/15
+----------
+train Loss: 0.2218 Acc: 0.9890
+val Loss: 0.6547 Acc: 0.9812
+
+Epoch 13/15
+----------
+train Loss: 0.1264 Acc: 0.9892
+val Loss: 0.6587 Acc: 0.9812
+
+Epoch 14/15
+----------
+train Loss: 0.1389 Acc: 0.9898
+val Loss: 0.6243 Acc: 0.9829
+
+Epoch 15/15
+----------
+train Loss: 0.1737 Acc: 0.9908
+val Loss: 0.6396 Acc: 0.9829
+
+Training complete in 5m 18s
+Best val Acc: 0.983687
+Val
+Acc:  0.9836867862969005
+Micro F1:  0.9836867862969005
+Train
+Acc:  0.9836867862969005
+Micro F1:  0.9836867862969005
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 256 0.01 7 0.001
+Epoch 1/15
+----------
+train Loss: 1.2157 Acc: 0.7535
+val Loss: 0.4499 Acc: 0.9519
+
+Epoch 2/15
+----------
+train Loss: 0.3591 Acc: 0.9566
+val Loss: 0.2291 Acc: 0.9715
+
+Epoch 3/15
+----------
+train Loss: 0.2148 Acc: 0.9706
+val Loss: 0.1685 Acc: 0.9747
+
+Epoch 4/15
+----------
+train Loss: 0.1627 Acc: 0.9768
+val Loss: 0.1449 Acc: 0.9780
+
+Epoch 5/15
+----------
+train Loss: 0.1389 Acc: 0.9772
+val Loss: 0.1240 Acc: 0.9804
+
+Epoch 6/15
+----------
+train Loss: 0.1159 Acc: 0.9821
+val Loss: 0.1132 Acc: 0.9829
+
+Epoch 7/15
+----------
+train Loss: 0.1016 Acc: 0.9869
+val Loss: 0.1064 Acc: 0.9796
+
+Epoch 8/15
+----------
+train Loss: 0.0965 Acc: 0.9845
+val Loss: 0.1079 Acc: 0.9796
+
+Epoch 9/15
+----------
+train Loss: 0.0942 Acc: 0.9847
+val Loss: 0.1066 Acc: 0.9796
+
+Epoch 10/15
+----------
+train Loss: 0.0942 Acc: 0.9867
+val Loss: 0.1061 Acc: 0.9804
+
+Epoch 11/15
+----------
+train Loss: 0.0954 Acc: 0.9863
+val Loss: 0.1075 Acc: 0.9804
+
+Epoch 12/15
+----------
+train Loss: 0.0929 Acc: 0.9863
+val Loss: 0.1058 Acc: 0.9796
+
+Epoch 13/15
+----------
+train Loss: 0.0954 Acc: 0.9863
+val Loss: 0.1066 Acc: 0.9796
+
+Epoch 14/15
+----------
+train Loss: 0.0929 Acc: 0.9874
+val Loss: 0.1065 Acc: 0.9804
+
+Epoch 15/15
+----------
+train Loss: 0.0934 Acc: 0.9874
+val Loss: 0.1054 Acc: 0.9804
+
+Training complete in 5m 18s
+Best val Acc: 0.982871
+Val
+Acc:  0.9828711256117455
+Micro F1:  0.9828711256117455
+Train
+Acc:  0.9828711256117455
+Micro F1:  0.9828711256117455
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 256 0.01 7 0.01
+Epoch 1/15
+----------
+train Loss: 0.8712 Acc: 0.7541
+val Loss: 0.1731 Acc: 0.9568
+
+Epoch 2/15
+----------
+train Loss: 0.0961 Acc: 0.9698
+val Loss: 0.1040 Acc: 0.9812
+
+Epoch 3/15
+----------
+train Loss: 0.0663 Acc: 0.9808
+val Loss: 0.0913 Acc: 0.9837
+
+Epoch 4/15
+----------
+train Loss: 0.0482 Acc: 0.9882
+val Loss: 0.0852 Acc: 0.9804
+
+Epoch 5/15
+----------
+train Loss: 0.0405 Acc: 0.9884
+val Loss: 0.0843 Acc: 0.9829
+
+Epoch 6/15
+----------
+train Loss: 0.0436 Acc: 0.9869
+val Loss: 0.0854 Acc: 0.9853
+
+Epoch 7/15
+----------
+train Loss: 0.0300 Acc: 0.9923
+val Loss: 0.0807 Acc: 0.9845
+
+Epoch 8/15
+----------
+train Loss: 0.0272 Acc: 0.9931
+val Loss: 0.0801 Acc: 0.9837
+
+Epoch 9/15
+----------
+train Loss: 0.0242 Acc: 0.9931
+val Loss: 0.0808 Acc: 0.9829
+
+Epoch 10/15
+----------
+train Loss: 0.0281 Acc: 0.9920
+val Loss: 0.0810 Acc: 0.9829
+
+Epoch 11/15
+----------
+train Loss: 0.0267 Acc: 0.9927
+val Loss: 0.0797 Acc: 0.9829
+
+Epoch 12/15
+----------
+train Loss: 0.0280 Acc: 0.9916
+val Loss: 0.0808 Acc: 0.9829
+
+Epoch 13/15
+----------
+train Loss: 0.0255 Acc: 0.9939
+val Loss: 0.0809 Acc: 0.9821
+
+Epoch 14/15
+----------
+train Loss: 0.0239 Acc: 0.9943
+val Loss: 0.0836 Acc: 0.9829
+
+Epoch 15/15
+----------
+train Loss: 0.0252 Acc: 0.9939
+val Loss: 0.0821 Acc: 0.9829
+
+Training complete in 5m 19s
+Best val Acc: 0.985318
+Val
+Acc:  0.9853181076672104
+Micro F1:  0.9853181076672104
+Train
+Acc:  0.9853181076672104
+Micro F1:  0.9853181076672104
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 256 0.01 7 0.1
+Epoch 1/15
+----------
+train Loss: 4.7895 Acc: 0.7494
+val Loss: 1.3361 Acc: 0.9470
+
+Epoch 2/15
+----------
+train Loss: 0.6747 Acc: 0.9621
+val Loss: 0.6024 Acc: 0.9804
+
+Epoch 3/15
+----------
+train Loss: 0.3052 Acc: 0.9810
+val Loss: 0.6302 Acc: 0.9804
+
+Epoch 4/15
+----------
+train Loss: 0.2396 Acc: 0.9833
+val Loss: 0.6492 Acc: 0.9821
+
+Epoch 5/15
+----------
+train Loss: 0.3228 Acc: 0.9821
+val Loss: 0.5645 Acc: 0.9829
+
+Epoch 6/15
+----------
+train Loss: 0.1892 Acc: 0.9855
+val Loss: 0.6539 Acc: 0.9788
+
+Epoch 7/15
+----------
+train Loss: 0.2017 Acc: 0.9833
+val Loss: 0.6975 Acc: 0.9763
+
+Epoch 8/15
+----------
+train Loss: 0.1827 Acc: 0.9849
+val Loss: 0.6832 Acc: 0.9788
+
+Epoch 9/15
+----------
+train Loss: 0.1137 Acc: 0.9869
+val Loss: 0.6663 Acc: 0.9796
+
+Epoch 10/15
+----------
+train Loss: 0.1094 Acc: 0.9912
+val Loss: 0.6683 Acc: 0.9812
+
+Epoch 11/15
+----------
+train Loss: 0.0546 Acc: 0.9933
+val Loss: 0.6533 Acc: 0.9804
+
+Epoch 12/15
+----------
+train Loss: 0.1265 Acc: 0.9896
+val Loss: 0.6418 Acc: 0.9812
+
+Epoch 13/15
+----------
+train Loss: 0.0983 Acc: 0.9898
+val Loss: 0.6232 Acc: 0.9821
+
+Epoch 14/15
+----------
+train Loss: 0.0871 Acc: 0.9902
+val Loss: 0.6343 Acc: 0.9812
+
+Epoch 15/15
+----------
+train Loss: 0.1118 Acc: 0.9910
+val Loss: 0.6405 Acc: 0.9804
+
+Training complete in 5m 18s
+Best val Acc: 0.982871
+Val
+Acc:  0.9828711256117455
+Micro F1:  0.9828711256117455
+Train
+Acc:  0.9828711256117455
+Micro F1:  0.9828711256117455
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 256 0.001 3 0.001
+Epoch 1/15
+----------
+train Loss: 1.2809 Acc: 0.7060
+val Loss: 0.4862 Acc: 0.9445
+
+Epoch 2/15
+----------
+train Loss: 0.3706 Acc: 0.9517
+val Loss: 0.2332 Acc: 0.9731
+
+Epoch 3/15
+----------
+train Loss: 0.2170 Acc: 0.9668
+val Loss: 0.1709 Acc: 0.9772
+
+Epoch 4/15
+----------
+train Loss: 0.1801 Acc: 0.9749
+val Loss: 0.1715 Acc: 0.9780
+
+Epoch 5/15
+----------
+train Loss: 0.1810 Acc: 0.9735
+val Loss: 0.1707 Acc: 0.9772
+
+Epoch 6/15
+----------
+train Loss: 0.1799 Acc: 0.9715
+val Loss: 0.1724 Acc: 0.9788
+
+Epoch 7/15
+----------
+train Loss: 0.1837 Acc: 0.9735
+val Loss: 0.1707 Acc: 0.9788
+
+Epoch 8/15
+----------
+train Loss: 0.1806 Acc: 0.9743
+val Loss: 0.1721 Acc: 0.9804
+
+Epoch 9/15
+----------
+train Loss: 0.1794 Acc: 0.9768
+val Loss: 0.1733 Acc: 0.9780
+
+Epoch 10/15
+----------
+train Loss: 0.1816 Acc: 0.9741
+val Loss: 0.1730 Acc: 0.9780
+
+Epoch 11/15
+----------
+train Loss: 0.1853 Acc: 0.9727
+val Loss: 0.1722 Acc: 0.9788
+
+Epoch 12/15
+----------
+train Loss: 0.1828 Acc: 0.9733
+val Loss: 0.1725 Acc: 0.9788
+
+Epoch 13/15
+----------
+train Loss: 0.1823 Acc: 0.9753
+val Loss: 0.1715 Acc: 0.9780
+
+Epoch 14/15
+----------
+train Loss: 0.1794 Acc: 0.9735
+val Loss: 0.1712 Acc: 0.9788
+
+Epoch 15/15
+----------
+train Loss: 0.1846 Acc: 0.9739
+val Loss: 0.1731 Acc: 0.9796
+
+Training complete in 5m 17s
+Best val Acc: 0.980424
+Val
+Acc:  0.9804241435562806
+Micro F1:  0.9804241435562806
+Train
+Acc:  0.9804241435562806
+Micro F1:  0.9804241435562806
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 256 0.001 3 0.01
+Epoch 1/15
+----------
+train Loss: 0.7052 Acc: 0.7885
+val Loss: 0.1778 Acc: 0.9592
+
+Epoch 2/15
+----------
+train Loss: 0.0987 Acc: 0.9719
+val Loss: 0.0994 Acc: 0.9772
+
+Epoch 3/15
+----------
+train Loss: 0.0646 Acc: 0.9823
+val Loss: 0.1049 Acc: 0.9804
+
+Epoch 4/15
+----------
+train Loss: 0.0460 Acc: 0.9890
+val Loss: 0.1034 Acc: 0.9804
+
+Epoch 5/15
+----------
+train Loss: 0.0432 Acc: 0.9890
+val Loss: 0.1036 Acc: 0.9804
+
+Epoch 6/15
+----------
+train Loss: 0.0476 Acc: 0.9884
+val Loss: 0.1035 Acc: 0.9804
+
+Epoch 7/15
+----------
+train Loss: 0.0436 Acc: 0.9888
+val Loss: 0.1039 Acc: 0.9812
+
+Epoch 8/15
+----------
+train Loss: 0.0475 Acc: 0.9872
+val Loss: 0.1040 Acc: 0.9812
+
+Epoch 9/15
+----------
+train Loss: 0.0461 Acc: 0.9890
+val Loss: 0.1025 Acc: 0.9804
+
+Epoch 10/15
+----------
+train Loss: 0.0435 Acc: 0.9880
+val Loss: 0.1034 Acc: 0.9804
+
+Epoch 11/15
+----------
+train Loss: 0.0441 Acc: 0.9884
+val Loss: 0.1026 Acc: 0.9796
+
+Epoch 12/15
+----------
+train Loss: 0.0458 Acc: 0.9884
+val Loss: 0.1050 Acc: 0.9796
+
+Epoch 13/15
+----------
+train Loss: 0.0394 Acc: 0.9896
+val Loss: 0.1035 Acc: 0.9804
+
+Epoch 14/15
+----------
+train Loss: 0.0454 Acc: 0.9884
+val Loss: 0.1030 Acc: 0.9804
+
+Epoch 15/15
+----------
+train Loss: 0.0432 Acc: 0.9890
+val Loss: 0.1042 Acc: 0.9804
+
+Training complete in 5m 15s
+Best val Acc: 0.981240
+Val
+Acc:  0.9812398042414355
+Micro F1:  0.9812398042414355
+Train
+Acc:  0.9812398042414355
+Micro F1:  0.9812398042414355
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 256 0.001 3 0.1
+Epoch 1/15
+----------
+train Loss: 5.0629 Acc: 0.7522
+val Loss: 1.3860 Acc: 0.9396
+
+Epoch 2/15
+----------
+train Loss: 0.6294 Acc: 0.9639
+val Loss: 0.5276 Acc: 0.9755
+
+Epoch 3/15
+----------
+train Loss: 0.3971 Acc: 0.9778
+val Loss: 0.5124 Acc: 0.9772
+
+Epoch 4/15
+----------
+train Loss: 0.1774 Acc: 0.9865
+val Loss: 0.4993 Acc: 0.9763
+
+Epoch 5/15
+----------
+train Loss: 0.2328 Acc: 0.9853
+val Loss: 0.5192 Acc: 0.9755
+
+Epoch 6/15
+----------
+train Loss: 0.2035 Acc: 0.9841
+val Loss: 0.5093 Acc: 0.9772
+
+Epoch 7/15
+----------
+train Loss: 0.2243 Acc: 0.9837
+val Loss: 0.5292 Acc: 0.9772
+
+Epoch 8/15
+----------
+train Loss: 0.2067 Acc: 0.9849
+val Loss: 0.5173 Acc: 0.9763
+
+Epoch 9/15
+----------
+train Loss: 0.2092 Acc: 0.9837
+val Loss: 0.5158 Acc: 0.9772
+
+Epoch 10/15
+----------
+train Loss: 0.2032 Acc: 0.9849
+val Loss: 0.5062 Acc: 0.9772
+
+Epoch 11/15
+----------
+train Loss: 0.2187 Acc: 0.9851
+val Loss: 0.4935 Acc: 0.9780
+
+Epoch 12/15
+----------
+train Loss: 0.2262 Acc: 0.9863
+val Loss: 0.4976 Acc: 0.9780
+
+Epoch 13/15
+----------
+train Loss: 0.1819 Acc: 0.9861
+val Loss: 0.4914 Acc: 0.9772
+
+Epoch 14/15
+----------
+train Loss: 0.2161 Acc: 0.9849
+val Loss: 0.5124 Acc: 0.9788
+
+Epoch 15/15
+----------
+train Loss: 0.2025 Acc: 0.9849
+val Loss: 0.5087 Acc: 0.9796
+
+Training complete in 5m 17s
+Best val Acc: 0.979608
+Val
+Acc:  0.9796084828711256
+Micro F1:  0.9796084828711256
+Train
+Acc:  0.9796084828711256
+Micro F1:  0.9796084828711256
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 256 0.001 5 0.001
+Epoch 1/15
+----------
+train Loss: 1.2701 Acc: 0.7300
+val Loss: 0.4826 Acc: 0.9462
+
+Epoch 2/15
+----------
+train Loss: 0.3746 Acc: 0.9551
+val Loss: 0.2336 Acc: 0.9690
+
+Epoch 3/15
+----------
+train Loss: 0.2189 Acc: 0.9688
+val Loss: 0.1719 Acc: 0.9763
+
+Epoch 4/15
+----------
+train Loss: 0.1693 Acc: 0.9727
+val Loss: 0.1434 Acc: 0.9821
+
+Epoch 5/15
+----------
+train Loss: 0.1333 Acc: 0.9829
+val Loss: 0.1258 Acc: 0.9837
+
+Epoch 6/15
+----------
+train Loss: 0.1260 Acc: 0.9808
+val Loss: 0.1255 Acc: 0.9845
+
+Epoch 7/15
+----------
+train Loss: 0.1266 Acc: 0.9806
+val Loss: 0.1245 Acc: 0.9837
+
+Epoch 8/15
+----------
+train Loss: 0.1275 Acc: 0.9802
+val Loss: 0.1244 Acc: 0.9837
+
+Epoch 9/15
+----------
+train Loss: 0.1240 Acc: 0.9823
+val Loss: 0.1245 Acc: 0.9845
+
+Epoch 10/15
+----------
+train Loss: 0.1262 Acc: 0.9796
+val Loss: 0.1238 Acc: 0.9837
+
+Epoch 11/15
+----------
+train Loss: 0.1246 Acc: 0.9808
+val Loss: 0.1226 Acc: 0.9845
+
+Epoch 12/15
+----------
+train Loss: 0.1283 Acc: 0.9821
+val Loss: 0.1253 Acc: 0.9837
+
+Epoch 13/15
+----------
+train Loss: 0.1247 Acc: 0.9806
+val Loss: 0.1248 Acc: 0.9829
+
+Epoch 14/15
+----------
+train Loss: 0.1254 Acc: 0.9802
+val Loss: 0.1227 Acc: 0.9837
+
+Epoch 15/15
+----------
+train Loss: 0.1257 Acc: 0.9802
+val Loss: 0.1256 Acc: 0.9837
+
+Training complete in 5m 17s
+Best val Acc: 0.984502
+Val
+Acc:  0.9845024469820555
+Micro F1:  0.9845024469820555
+Train
+Acc:  0.9845024469820555
+Micro F1:  0.9845024469820555
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 256 0.001 5 0.01
+Epoch 1/15
+----------
+train Loss: 0.6572 Acc: 0.8022
+val Loss: 0.1512 Acc: 0.9706
+
+Epoch 2/15
+----------
+train Loss: 0.0878 Acc: 0.9763
+val Loss: 0.1144 Acc: 0.9780
+
+Epoch 3/15
+----------
+train Loss: 0.0684 Acc: 0.9804
+val Loss: 0.1036 Acc: 0.9829
+
+Epoch 4/15
+----------
+train Loss: 0.0461 Acc: 0.9855
+val Loss: 0.0955 Acc: 0.9821
+
+Epoch 5/15
+----------
+train Loss: 0.0357 Acc: 0.9892
+val Loss: 0.0943 Acc: 0.9812
+
+Epoch 6/15
+----------
+train Loss: 0.0293 Acc: 0.9923
+val Loss: 0.0959 Acc: 0.9796
+
+Epoch 7/15
+----------
+train Loss: 0.0286 Acc: 0.9918
+val Loss: 0.0971 Acc: 0.9812
+
+Epoch 8/15
+----------
+train Loss: 0.0323 Acc: 0.9912
+val Loss: 0.0949 Acc: 0.9804
+
+Epoch 9/15
+----------
+train Loss: 0.0366 Acc: 0.9914
+val Loss: 0.0956 Acc: 0.9804
+
+Epoch 10/15
+----------
+train Loss: 0.0342 Acc: 0.9914
+val Loss: 0.0955 Acc: 0.9804
+
+Epoch 11/15
+----------
+train Loss: 0.0302 Acc: 0.9935
+val Loss: 0.0941 Acc: 0.9812
+
+Epoch 12/15
+----------
+train Loss: 0.0300 Acc: 0.9931
+val Loss: 0.0939 Acc: 0.9829
+
+Epoch 13/15
+----------
+train Loss: 0.0293 Acc: 0.9935
+val Loss: 0.0947 Acc: 0.9821
+
+Epoch 14/15
+----------
+train Loss: 0.0325 Acc: 0.9939
+val Loss: 0.0946 Acc: 0.9821
+
+Epoch 15/15
+----------
+train Loss: 0.0310 Acc: 0.9927
+val Loss: 0.0945 Acc: 0.9812
+
+Training complete in 5m 15s
+Best val Acc: 0.982871
+Val
+Acc:  0.9828711256117455
+Micro F1:  0.9828711256117455
+Train
+Acc:  0.9828711256117455
+Micro F1:  0.9828711256117455
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 256 0.001 5 0.1
+Epoch 1/15
+----------
+train Loss: 8.4085 Acc: 0.7166
+val Loss: 1.7577 Acc: 0.9356
+
+Epoch 2/15
+----------
+train Loss: 0.9255 Acc: 0.9555
+val Loss: 0.7438 Acc: 0.9772
+
+Epoch 3/15
+----------
+train Loss: 0.3460 Acc: 0.9780
+val Loss: 0.6852 Acc: 0.9837
+
+Epoch 4/15
+----------
+train Loss: 0.3135 Acc: 0.9770
+val Loss: 0.6859 Acc: 0.9682
+
+Epoch 5/15
+----------
+train Loss: 0.2862 Acc: 0.9825
+val Loss: 0.6108 Acc: 0.9780
+
+Epoch 6/15
+----------
+train Loss: 0.2571 Acc: 0.9823
+val Loss: 0.5905 Acc: 0.9772
+
+Epoch 7/15
+----------
+train Loss: 0.2456 Acc: 0.9825
+val Loss: 0.6004 Acc: 0.9763
+
+Epoch 8/15
+----------
+train Loss: 0.2270 Acc: 0.9849
+val Loss: 0.5857 Acc: 0.9788
+
+Epoch 9/15
+----------
+train Loss: 0.2562 Acc: 0.9831
+val Loss: 0.5874 Acc: 0.9780
+
+Epoch 10/15
+----------
+train Loss: 0.2132 Acc: 0.9837
+val Loss: 0.5843 Acc: 0.9780
+
+Epoch 11/15
+----------
+train Loss: 0.2066 Acc: 0.9833
+val Loss: 0.5904 Acc: 0.9772
+
+Epoch 12/15
+----------
+train Loss: 0.2589 Acc: 0.9861
+val Loss: 0.5987 Acc: 0.9788
+
+Epoch 13/15
+----------
+train Loss: 0.2206 Acc: 0.9863
+val Loss: 0.5848 Acc: 0.9796
+
+Epoch 14/15
+----------
+train Loss: 0.2092 Acc: 0.9861
+val Loss: 0.5918 Acc: 0.9780
+
+Epoch 15/15
+----------
+train Loss: 0.1920 Acc: 0.9859
+val Loss: 0.5973 Acc: 0.9780
+
+Training complete in 5m 18s
+Best val Acc: 0.983687
+Val
+Acc:  0.9836867862969005
+Micro F1:  0.9836867862969005
+Train
+Acc:  0.9836867862969005
+Micro F1:  0.9836867862969005
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 256 0.001 7 0.001
+Epoch 1/15
+----------
+train Loss: 1.2428 Acc: 0.7298
+val Loss: 0.4730 Acc: 0.9396
+
+Epoch 2/15
+----------
+train Loss: 0.3585 Acc: 0.9539
+val Loss: 0.2305 Acc: 0.9723
+
+Epoch 3/15
+----------
+train Loss: 0.2121 Acc: 0.9710
+val Loss: 0.1722 Acc: 0.9755
+
+Epoch 4/15
+----------
+train Loss: 0.1629 Acc: 0.9739
+val Loss: 0.1492 Acc: 0.9788
+
+Epoch 5/15
+----------
+train Loss: 0.1360 Acc: 0.9806
+val Loss: 0.1248 Acc: 0.9812
+
+Epoch 6/15
+----------
+train Loss: 0.1164 Acc: 0.9839
+val Loss: 0.1154 Acc: 0.9821
+
+Epoch 7/15
+----------
+train Loss: 0.1024 Acc: 0.9853
+val Loss: 0.1085 Acc: 0.9845
+
+Epoch 8/15
+----------
+train Loss: 0.0952 Acc: 0.9861
+val Loss: 0.1085 Acc: 0.9853
+
+Epoch 9/15
+----------
+train Loss: 0.0916 Acc: 0.9853
+val Loss: 0.1085 Acc: 0.9845
+
+Epoch 10/15
+----------
+train Loss: 0.0960 Acc: 0.9869
+val Loss: 0.1078 Acc: 0.9853
+
+Epoch 11/15
+----------
+train Loss: 0.0941 Acc: 0.9857
+val Loss: 0.1078 Acc: 0.9853
+
+Epoch 12/15
+----------
+train Loss: 0.0957 Acc: 0.9859
+val Loss: 0.1077 Acc: 0.9845
+
+Epoch 13/15
+----------
+train Loss: 0.0937 Acc: 0.9863
+val Loss: 0.1084 Acc: 0.9845
+
+Epoch 14/15
+----------
+train Loss: 0.0950 Acc: 0.9878
+val Loss: 0.1085 Acc: 0.9845
+
+Epoch 15/15
+----------
+train Loss: 0.0956 Acc: 0.9882
+val Loss: 0.1075 Acc: 0.9853
+
+Training complete in 5m 17s
+Best val Acc: 0.985318
+Val
+Acc:  0.9853181076672104
+Micro F1:  0.9853181076672104
+Train
+Acc:  0.9853181076672104
+Micro F1:  0.9853181076672104
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 256 0.001 7 0.01
+Epoch 1/15
+----------
+train Loss: 0.8409 Acc: 0.7565
+val Loss: 0.1441 Acc: 0.9657
+
+Epoch 2/15
+----------
+train Loss: 0.1050 Acc: 0.9706
+val Loss: 0.1045 Acc: 0.9829
+
+Epoch 3/15
+----------
+train Loss: 0.0738 Acc: 0.9774
+val Loss: 0.1064 Acc: 0.9780
+
+Epoch 4/15
+----------
+train Loss: 0.0505 Acc: 0.9861
+val Loss: 0.0997 Acc: 0.9812
+
+Epoch 5/15
+----------
+train Loss: 0.0408 Acc: 0.9902
+val Loss: 0.0969 Acc: 0.9812
+
+Epoch 6/15
+----------
+train Loss: 0.0345 Acc: 0.9920
+val Loss: 0.1007 Acc: 0.9829
+
+Epoch 7/15
+----------
+train Loss: 0.0424 Acc: 0.9894
+val Loss: 0.1004 Acc: 0.9837
+
+Epoch 8/15
+----------
+train Loss: 0.0397 Acc: 0.9894
+val Loss: 0.0994 Acc: 0.9829
+
+Epoch 9/15
+----------
+train Loss: 0.0328 Acc: 0.9920
+val Loss: 0.0994 Acc: 0.9829
+
+Epoch 10/15
+----------
+train Loss: 0.0393 Acc: 0.9916
+val Loss: 0.1019 Acc: 0.9845
+
+Epoch 11/15
+----------
+train Loss: 0.0363 Acc: 0.9914
+val Loss: 0.0993 Acc: 0.9837
+
+Epoch 12/15
+----------
+train Loss: 0.0362 Acc: 0.9920
+val Loss: 0.1010 Acc: 0.9829
+
+Epoch 13/15
+----------
+train Loss: 0.0360 Acc: 0.9914
+val Loss: 0.1008 Acc: 0.9829
+
+Epoch 14/15
+----------
+train Loss: 0.0339 Acc: 0.9933
+val Loss: 0.0995 Acc: 0.9829
+
+Epoch 15/15
+----------
+train Loss: 0.0332 Acc: 0.9931
+val Loss: 0.1012 Acc: 0.9829
+
+Training complete in 5m 19s
+Best val Acc: 0.984502
+Val
+Acc:  0.9845024469820555
+Micro F1:  0.9845024469820555
+Train
+Acc:  0.9845024469820555
+Micro F1:  0.9845024469820555
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 256 0.001 7 0.1
+Epoch 1/15
+----------
+train Loss: 8.6616 Acc: 0.7019
+val Loss: 1.2226 Acc: 0.9429
+
+Epoch 2/15
+----------
+train Loss: 1.1060 Acc: 0.9474
+val Loss: 0.7423 Acc: 0.9772
+
+Epoch 3/15
+----------
+train Loss: 0.4738 Acc: 0.9743
+val Loss: 0.7547 Acc: 0.9706
+
+Epoch 4/15
+----------
+train Loss: 0.3106 Acc: 0.9808
+val Loss: 0.5632 Acc: 0.9796
+
+Epoch 5/15
+----------
+train Loss: 0.2734 Acc: 0.9841
+val Loss: 0.6651 Acc: 0.9821
+
+Epoch 6/15
+----------
+train Loss: 0.2096 Acc: 0.9878
+val Loss: 0.7418 Acc: 0.9796
+
+Epoch 7/15
+----------
+train Loss: 0.1900 Acc: 0.9894
+val Loss: 0.6528 Acc: 0.9812
+
+Epoch 8/15
+----------
+train Loss: 0.0987 Acc: 0.9898
+val Loss: 0.6514 Acc: 0.9812
+
+Epoch 9/15
+----------
+train Loss: 0.1292 Acc: 0.9894
+val Loss: 0.6650 Acc: 0.9812
+
+Epoch 10/15
+----------
+train Loss: 0.1124 Acc: 0.9884
+val Loss: 0.6652 Acc: 0.9821
+
+Epoch 11/15
+----------
+train Loss: 0.1360 Acc: 0.9912
+val Loss: 0.6676 Acc: 0.9812
+
+Epoch 12/15
+----------
+train Loss: 0.1036 Acc: 0.9920
+val Loss: 0.6689 Acc: 0.9812
+
+Epoch 13/15
+----------
+train Loss: 0.1121 Acc: 0.9894
+val Loss: 0.6549 Acc: 0.9821
+
+Epoch 14/15
+----------
+train Loss: 0.1223 Acc: 0.9888
+val Loss: 0.6639 Acc: 0.9821
+
+Epoch 15/15
+----------
+train Loss: 0.0983 Acc: 0.9906
+val Loss: 0.6637 Acc: 0.9821
+
+Training complete in 5m 17s
+Best val Acc: 0.982055
+Val
+Acc:  0.9820554649265906
+Micro F1:  0.9820554649265906
+Train
+Acc:  0.9820554649265906
+Micro F1:  0.9820554649265906
+Done
+_____________________________________________
+
+
+Data shapes torch.Size([4904, 3, 300, 300]) torch.Size([1226, 3, 300, 300]) torch.Size([4904]) torch.Size([1226])
+fold-batch_size-gamma-step_size-learning_rate 1 512 0.1 3 0.001
+Epoch 1/15
+----------
+train Loss: 1.6942 Acc: 0.5646
+val Loss: 1.3259 Acc: 0.6827
+
+Epoch 2/15
+----------
+train Loss: 0.7063 Acc: 0.9270
+val Loss: 0.4236 Acc: 0.9511
+
+Epoch 3/15
+----------
+train Loss: 0.3831 Acc: 0.9531
+val Loss: 0.2629 Acc: 0.9633
+
+Epoch 4/15
+----------
+train Loss: 0.2918 Acc: 0.9639
+val Loss: 0.2641 Acc: 0.9649
+
+Epoch 5/15
+----------
+train Loss: 0.2835 Acc: 0.9600
+val Loss: 0.2606 Acc: 0.9649
+
+Epoch 6/15
+----------
+train Loss: 0.2814 Acc: 0.9657
+val Loss: 0.2555 Acc: 0.9674
+
+Epoch 7/15
+----------
+train Loss: 0.2668 Acc: 0.9670
+val Loss: 0.2544 Acc: 0.9674
+
+Epoch 8/15
+----------
+train Loss: 0.2702 Acc: 0.9686
+val Loss: 0.2536 Acc: 0.9674
+
+Epoch 9/15
+----------
+train Loss: 0.2750 Acc: 0.9643
+val Loss: 0.2539 Acc: 0.9657
+
+Epoch 10/15
+----------
+train Loss: 0.2693 Acc: 0.9674
+val Loss: 0.2549 Acc: 0.9666
+
+Epoch 11/15
+----------
+train Loss: 0.2756 Acc: 0.9637
+val Loss: 0.2539 Acc: 0.9674
+
+Epoch 12/15
+----------
+train Loss: 0.2697 Acc: 0.9678
+val Loss: 0.2530 Acc: 0.9674
+
+Epoch 13/15
+----------
+train Loss: 0.2665 Acc: 0.9706
+val Loss: 0.2540 Acc: 0.9666
+
+Epoch 14/15
+----------
+train Loss: 0.2714 Acc: 0.9653
+val Loss: 0.2542 Acc: 0.9666
+
+Epoch 15/15
+----------
+train Loss: 0.2735 Acc: 0.9637
+val Loss: 0.2535 Acc: 0.9674
+
+Training complete in 5m 26s
+Best val Acc: 0.967374
+Val
+Acc:  0.967373572593801
+Micro F1:  0.967373572593801
+Train
+Acc:  0.967373572593801
+Micro F1:  0.967373572593801
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 512 0.1 3 0.01
+Epoch 1/15
+----------
+train Loss: 1.3487 Acc: 0.6242
+val Loss: 0.7948 Acc: 0.7667
+
+Epoch 2/15
+----------
+train Loss: 0.2169 Acc: 0.9339
+val Loss: 0.1240 Acc: 0.9682
+
+Epoch 3/15
+----------
+train Loss: 0.1127 Acc: 0.9678
+val Loss: 0.1332 Acc: 0.9715
+
+Epoch 4/15
+----------
+train Loss: 0.0931 Acc: 0.9761
+val Loss: 0.1230 Acc: 0.9755
+
+Epoch 5/15
+----------
+train Loss: 0.0869 Acc: 0.9770
+val Loss: 0.1126 Acc: 0.9772
+
+Epoch 6/15
+----------
+train Loss: 0.0737 Acc: 0.9796
+val Loss: 0.1045 Acc: 0.9780
+
+Epoch 7/15
+----------
+train Loss: 0.0689 Acc: 0.9827
+val Loss: 0.1039 Acc: 0.9780
+
+Epoch 8/15
+----------
+train Loss: 0.0673 Acc: 0.9845
+val Loss: 0.1043 Acc: 0.9780
+
+Epoch 9/15
+----------
+train Loss: 0.0682 Acc: 0.9841
+val Loss: 0.1036 Acc: 0.9780
+
+Epoch 10/15
+----------
+train Loss: 0.0687 Acc: 0.9825
+val Loss: 0.1043 Acc: 0.9780
+
+Epoch 11/15
+----------
+train Loss: 0.0687 Acc: 0.9814
+val Loss: 0.1038 Acc: 0.9780
+
+Epoch 12/15
+----------
+train Loss: 0.0673 Acc: 0.9812
+val Loss: 0.1031 Acc: 0.9780
+
+Epoch 13/15
+----------
+train Loss: 0.0682 Acc: 0.9823
+val Loss: 0.1035 Acc: 0.9780
+
+Epoch 14/15
+----------
+train Loss: 0.0690 Acc: 0.9829
+val Loss: 0.1037 Acc: 0.9780
+
+Epoch 15/15
+----------
+train Loss: 0.0708 Acc: 0.9819
+val Loss: 0.1031 Acc: 0.9780
+
+Training complete in 5m 24s
+Best val Acc: 0.977977
+Val
+Acc:  0.9779771615008157
+Micro F1:  0.9779771615008157
+Train
+Acc:  0.9779771615008157
+Micro F1:  0.9779771615008157
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 512 0.1 3 0.1
+Epoch 1/15
+----------
+train Loss: 17.0199 Acc: 0.4939
+val Loss: 6.5848 Acc: 0.7520
+
+Epoch 2/15
+----------
+train Loss: 2.7991 Acc: 0.8662
+val Loss: 0.8674 Acc: 0.9600
+
+Epoch 3/15
+----------
+train Loss: 0.9582 Acc: 0.9500
+val Loss: 0.9518 Acc: 0.9584
+
+Epoch 4/15
+----------
+train Loss: 0.7871 Acc: 0.9602
+val Loss: 0.8895 Acc: 0.9674
+
+Epoch 5/15
+----------
+train Loss: 0.6310 Acc: 0.9672
+val Loss: 0.8089 Acc: 0.9731
+
+Epoch 6/15
+----------
+train Loss: 0.5299 Acc: 0.9733
+val Loss: 0.7567 Acc: 0.9747
+
+Epoch 7/15
+----------
+train Loss: 0.4909 Acc: 0.9763
+val Loss: 0.7631 Acc: 0.9747
+
+Epoch 8/15
+----------
+train Loss: 0.4504 Acc: 0.9784
+val Loss: 0.7531 Acc: 0.9747
+
+Epoch 9/15
+----------
+train Loss: 0.4420 Acc: 0.9768
+val Loss: 0.7553 Acc: 0.9747
+
+Epoch 10/15
+----------
+train Loss: 0.4303 Acc: 0.9784
+val Loss: 0.7552 Acc: 0.9747
+
+Epoch 11/15
+----------
+train Loss: 0.4277 Acc: 0.9788
+val Loss: 0.7520 Acc: 0.9747
+
+Epoch 12/15
+----------
+train Loss: 0.4259 Acc: 0.9778
+val Loss: 0.7496 Acc: 0.9747
+
+Epoch 13/15
+----------
+train Loss: 0.4427 Acc: 0.9792
+val Loss: 0.7471 Acc: 0.9747
+
+Epoch 14/15
+----------
+train Loss: 0.4318 Acc: 0.9780
+val Loss: 0.7458 Acc: 0.9747
+
+Epoch 15/15
+----------
+train Loss: 0.4508 Acc: 0.9751
+val Loss: 0.7505 Acc: 0.9747
+
+Training complete in 5m 23s
+Best val Acc: 0.974715
+Val
+Acc:  0.9747145187601958
+Micro F1:  0.9747145187601958
+Train
+Acc:  0.9747145187601958
+Micro F1:  0.9747145187601958
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 512 0.1 5 0.001
+Epoch 1/15
+----------
+train Loss: 1.6889 Acc: 0.5646
+val Loss: 1.2945 Acc: 0.7202
+
+Epoch 2/15
+----------
+train Loss: 0.7068 Acc: 0.9199
+val Loss: 0.4328 Acc: 0.9502
+
+Epoch 3/15
+----------
+train Loss: 0.3779 Acc: 0.9541
+val Loss: 0.2578 Acc: 0.9731
+
+Epoch 4/15
+----------
+train Loss: 0.2600 Acc: 0.9657
+val Loss: 0.2054 Acc: 0.9715
+
+Epoch 5/15
+----------
+train Loss: 0.2037 Acc: 0.9725
+val Loss: 0.1761 Acc: 0.9739
+
+Epoch 6/15
+----------
+train Loss: 0.1871 Acc: 0.9708
+val Loss: 0.1739 Acc: 0.9739
+
+Epoch 7/15
+----------
+train Loss: 0.1791 Acc: 0.9759
+val Loss: 0.1723 Acc: 0.9739
+
+Epoch 8/15
+----------
+train Loss: 0.1740 Acc: 0.9751
+val Loss: 0.1701 Acc: 0.9739
+
+Epoch 9/15
+----------
+train Loss: 0.1748 Acc: 0.9743
+val Loss: 0.1688 Acc: 0.9739
+
+Epoch 10/15
+----------
+train Loss: 0.1761 Acc: 0.9757
+val Loss: 0.1670 Acc: 0.9739
+
+Epoch 11/15
+----------
+train Loss: 0.1752 Acc: 0.9776
+val Loss: 0.1670 Acc: 0.9739
+
+Epoch 12/15
+----------
+train Loss: 0.1724 Acc: 0.9770
+val Loss: 0.1664 Acc: 0.9739
+
+Epoch 13/15
+----------
+train Loss: 0.1714 Acc: 0.9763
+val Loss: 0.1656 Acc: 0.9739
+
+Epoch 14/15
+----------
+train Loss: 0.1738 Acc: 0.9772
+val Loss: 0.1652 Acc: 0.9747
+
+Epoch 15/15
+----------
+train Loss: 0.1723 Acc: 0.9751
+val Loss: 0.1647 Acc: 0.9739
+
+Training complete in 5m 23s
+Best val Acc: 0.974715
+Val
+Acc:  0.9747145187601958
+Micro F1:  0.9747145187601958
+Train
+Acc:  0.9747145187601958
+Micro F1:  0.9747145187601958
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 512 0.1 5 0.01
+Epoch 1/15
+----------
+train Loss: 0.8378 Acc: 0.7219
+val Loss: 0.8693 Acc: 0.7504
+
+Epoch 2/15
+----------
+train Loss: 0.1330 Acc: 0.9625
+val Loss: 0.1224 Acc: 0.9739
+
+Epoch 3/15
+----------
+train Loss: 0.0861 Acc: 0.9776
+val Loss: 0.1087 Acc: 0.9829
+
+Epoch 4/15
+----------
+train Loss: 0.0560 Acc: 0.9869
+val Loss: 0.0988 Acc: 0.9853
+
+Epoch 5/15
+----------
+train Loss: 0.0502 Acc: 0.9882
+val Loss: 0.0986 Acc: 0.9812
+
+Epoch 6/15
+----------
+train Loss: 0.0382 Acc: 0.9914
+val Loss: 0.0983 Acc: 0.9812
+
+Epoch 7/15
+----------
+train Loss: 0.0405 Acc: 0.9892
+val Loss: 0.0956 Acc: 0.9812
+
+Epoch 8/15
+----------
+train Loss: 0.0376 Acc: 0.9902
+val Loss: 0.0950 Acc: 0.9812
+
+Epoch 9/15
+----------
+train Loss: 0.0379 Acc: 0.9916
+val Loss: 0.0952 Acc: 0.9804
+
+Epoch 10/15
+----------
+train Loss: 0.0379 Acc: 0.9906
+val Loss: 0.0965 Acc: 0.9812
+
+Epoch 11/15
+----------
+train Loss: 0.0407 Acc: 0.9904
+val Loss: 0.0959 Acc: 0.9812
+
+Epoch 12/15
+----------
+train Loss: 0.0383 Acc: 0.9918
+val Loss: 0.0960 Acc: 0.9812
+
+Epoch 13/15
+----------
+train Loss: 0.0355 Acc: 0.9920
+val Loss: 0.0955 Acc: 0.9812
+
+Epoch 14/15
+----------
+train Loss: 0.0368 Acc: 0.9916
+val Loss: 0.0950 Acc: 0.9812
+
+Epoch 15/15
+----------
+train Loss: 0.0328 Acc: 0.9920
+val Loss: 0.0940 Acc: 0.9812
+
+Training complete in 5m 22s
+Best val Acc: 0.985318
+Val
+Acc:  0.9853181076672104
+Micro F1:  0.9853181076672104
+Train
+Acc:  0.9853181076672104
+Micro F1:  0.9853181076672104
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 512 0.1 5 0.1
+Epoch 1/15
+----------
+train Loss: 13.2297 Acc: 0.6026
+val Loss: 6.7953 Acc: 0.6933
+
+Epoch 2/15
+----------
+train Loss: 2.5375 Acc: 0.8895
+val Loss: 1.0129 Acc: 0.9454
+
+Epoch 3/15
+----------
+train Loss: 1.0034 Acc: 0.9496
+val Loss: 0.7686 Acc: 0.9780
+
+Epoch 4/15
+----------
+train Loss: 0.3866 Acc: 0.9768
+val Loss: 0.5996 Acc: 0.9812
+
+Epoch 5/15
+----------
+train Loss: 0.2949 Acc: 0.9806
+val Loss: 0.6448 Acc: 0.9788
+
+Epoch 6/15
+----------
+train Loss: 0.2771 Acc: 0.9823
+val Loss: 0.6223 Acc: 0.9788
+
+Epoch 7/15
+----------
+train Loss: 0.1822 Acc: 0.9857
+val Loss: 0.5872 Acc: 0.9796
+
+Epoch 8/15
+----------
+train Loss: 0.1855 Acc: 0.9853
+val Loss: 0.5725 Acc: 0.9812
+
+Epoch 9/15
+----------
+train Loss: 0.1757 Acc: 0.9892
+val Loss: 0.5596 Acc: 0.9812
+
+Epoch 10/15
+----------
+train Loss: 0.1384 Acc: 0.9882
+val Loss: 0.5617 Acc: 0.9829
+
+Epoch 11/15
+----------
+train Loss: 0.1180 Acc: 0.9896
+val Loss: 0.5648 Acc: 0.9821
+
+Epoch 12/15
+----------
+train Loss: 0.1163 Acc: 0.9896
+val Loss: 0.5662 Acc: 0.9821
+
+Epoch 13/15
+----------
+train Loss: 0.1609 Acc: 0.9880
+val Loss: 0.5659 Acc: 0.9821
+
+Epoch 14/15
+----------
+train Loss: 0.1500 Acc: 0.9888
+val Loss: 0.5645 Acc: 0.9821
+
+Epoch 15/15
+----------
+train Loss: 0.1252 Acc: 0.9892
+val Loss: 0.5609 Acc: 0.9821
+
+Training complete in 5m 21s
+Best val Acc: 0.982871
+Val
+Acc:  0.9828711256117455
+Micro F1:  0.9828711256117455
+Train
+Acc:  0.9828711256117455
+Micro F1:  0.9828711256117455
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 512 0.1 7 0.001
+Epoch 1/15
+----------
+train Loss: 1.6958 Acc: 0.5540
+val Loss: 1.3107 Acc: 0.6672
+
+Epoch 2/15
+----------
+train Loss: 0.7049 Acc: 0.9182
+val Loss: 0.4280 Acc: 0.9413
+
+Epoch 3/15
+----------
+train Loss: 0.3785 Acc: 0.9511
+val Loss: 0.2658 Acc: 0.9657
+
+Epoch 4/15
+----------
+train Loss: 0.2595 Acc: 0.9649
+val Loss: 0.2079 Acc: 0.9723
+
+Epoch 5/15
+----------
+train Loss: 0.2064 Acc: 0.9719
+val Loss: 0.1762 Acc: 0.9739
+
+Epoch 6/15
+----------
+train Loss: 0.1727 Acc: 0.9765
+val Loss: 0.1571 Acc: 0.9763
+
+Epoch 7/15
+----------
+train Loss: 0.1480 Acc: 0.9800
+val Loss: 0.1439 Acc: 0.9772
+
+Epoch 8/15
+----------
+train Loss: 0.1345 Acc: 0.9835
+val Loss: 0.1423 Acc: 0.9772
+
+Epoch 9/15
+----------
+train Loss: 0.1339 Acc: 0.9835
+val Loss: 0.1411 Acc: 0.9772
+
+Epoch 10/15
+----------
+train Loss: 0.1347 Acc: 0.9802
+val Loss: 0.1396 Acc: 0.9772
+
+Epoch 11/15
+----------
+train Loss: 0.1320 Acc: 0.9839
+val Loss: 0.1381 Acc: 0.9780
+
+Epoch 12/15
+----------
+train Loss: 0.1298 Acc: 0.9814
+val Loss: 0.1374 Acc: 0.9780
+
+Epoch 13/15
+----------
+train Loss: 0.1307 Acc: 0.9814
+val Loss: 0.1378 Acc: 0.9772
+
+Epoch 14/15
+----------
+train Loss: 0.1313 Acc: 0.9819
+val Loss: 0.1363 Acc: 0.9788
+
+Epoch 15/15
+----------
+train Loss: 0.1296 Acc: 0.9810
+val Loss: 0.1355 Acc: 0.9788
+
+Training complete in 5m 22s
+Best val Acc: 0.978793
+Val
+Acc:  0.9787928221859706
+Micro F1:  0.9787928221859706
+Train
+Acc:  0.9787928221859706
+Micro F1:  0.9787928221859706
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 512 0.1 7 0.01
+Epoch 1/15
+----------
+train Loss: 0.7416 Acc: 0.7518
+val Loss: 0.6354 Acc: 0.8002
+
+Epoch 2/15
+----------
+train Loss: 0.1310 Acc: 0.9631
+val Loss: 0.1204 Acc: 0.9772
+
+Epoch 3/15
+----------
+train Loss: 0.0733 Acc: 0.9802
+val Loss: 0.1066 Acc: 0.9821
+
+Epoch 4/15
+----------
+train Loss: 0.0609 Acc: 0.9849
+val Loss: 0.0994 Acc: 0.9837
+
+Epoch 5/15
+----------
+train Loss: 0.0392 Acc: 0.9894
+val Loss: 0.1005 Acc: 0.9812
+
+Epoch 6/15
+----------
+train Loss: 0.0369 Acc: 0.9904
+val Loss: 0.1004 Acc: 0.9812
+
+Epoch 7/15
+----------
+train Loss: 0.0291 Acc: 0.9927
+val Loss: 0.1024 Acc: 0.9821
+
+Epoch 8/15
+----------
+train Loss: 0.0262 Acc: 0.9937
+val Loss: 0.1027 Acc: 0.9821
+
+Epoch 9/15
+----------
+train Loss: 0.0264 Acc: 0.9927
+val Loss: 0.1008 Acc: 0.9821
+
+Epoch 10/15
+----------
+train Loss: 0.0262 Acc: 0.9929
+val Loss: 0.1005 Acc: 0.9821
+
+Epoch 11/15
+----------
+train Loss: 0.0250 Acc: 0.9947
+val Loss: 0.1001 Acc: 0.9821
+
+Epoch 12/15
+----------
+train Loss: 0.0222 Acc: 0.9945
+val Loss: 0.1008 Acc: 0.9821
+
+Epoch 13/15
+----------
+train Loss: 0.0251 Acc: 0.9943
+val Loss: 0.0997 Acc: 0.9821
+
+Epoch 14/15
+----------
+train Loss: 0.0228 Acc: 0.9945
+val Loss: 0.0991 Acc: 0.9812
+
+Epoch 15/15
+----------
+train Loss: 0.0210 Acc: 0.9957
+val Loss: 0.0990 Acc: 0.9812
+
+Training complete in 5m 21s
+Best val Acc: 0.983687
+Val
+Acc:  0.9836867862969005
+Micro F1:  0.9836867862969005
+Train
+Acc:  0.9836867862969005
+Micro F1:  0.9836867862969005
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 512 0.1 7 0.1
+Epoch 1/15
+----------
+train Loss: 12.6125 Acc: 0.5220
+val Loss: 5.2024 Acc: 0.7480
+
+Epoch 2/15
+----------
+train Loss: 1.8993 Acc: 0.8960
+val Loss: 1.4072 Acc: 0.9462
+
+Epoch 3/15
+----------
+train Loss: 0.9428 Acc: 0.9509
+val Loss: 0.9044 Acc: 0.9723
+
+Epoch 4/15
+----------
+train Loss: 0.5564 Acc: 0.9757
+val Loss: 0.6736 Acc: 0.9821
+
+Epoch 5/15
+----------
+train Loss: 0.4298 Acc: 0.9786
+val Loss: 0.6515 Acc: 0.9829
+
+Epoch 6/15
+----------
+train Loss: 0.2900 Acc: 0.9827
+val Loss: 0.6675 Acc: 0.9853
+
+Epoch 7/15
+----------
+train Loss: 0.2275 Acc: 0.9859
+val Loss: 0.6131 Acc: 0.9829
+
+Epoch 8/15
+----------
+train Loss: 0.2054 Acc: 0.9888
+val Loss: 0.6061 Acc: 0.9821
+
+Epoch 9/15
+----------
+train Loss: 0.1956 Acc: 0.9892
+val Loss: 0.6088 Acc: 0.9821
+
+Epoch 10/15
+----------
+train Loss: 0.1769 Acc: 0.9892
+val Loss: 0.6106 Acc: 0.9845
+
+Epoch 11/15
+----------
+train Loss: 0.1488 Acc: 0.9892
+val Loss: 0.6117 Acc: 0.9845
+
+Epoch 12/15
+----------
+train Loss: 0.1669 Acc: 0.9898
+val Loss: 0.6035 Acc: 0.9829
+
+Epoch 13/15
+----------
+train Loss: 0.1658 Acc: 0.9906
+val Loss: 0.6153 Acc: 0.9821
+
+Epoch 14/15
+----------
+train Loss: 0.1597 Acc: 0.9900
+val Loss: 0.6128 Acc: 0.9845
+
+Epoch 15/15
+----------
+train Loss: 0.1633 Acc: 0.9886
+val Loss: 0.6150 Acc: 0.9837
+
+Training complete in 5m 22s
+Best val Acc: 0.985318
+Val
+Acc:  0.9853181076672104
+Micro F1:  0.9853181076672104
+Train
+Acc:  0.9853181076672104
+Micro F1:  0.9853181076672104
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 512 0.01 3 0.001
+Epoch 1/15
+----------
+train Loss: 1.6251 Acc: 0.5983
+val Loss: 1.2256 Acc: 0.7178
+
+Epoch 2/15
+----------
+train Loss: 0.6764 Acc: 0.9286
+val Loss: 0.3994 Acc: 0.9470
+
+Epoch 3/15
+----------
+train Loss: 0.3673 Acc: 0.9574
+val Loss: 0.2506 Acc: 0.9657
+
+Epoch 4/15
+----------
+train Loss: 0.2830 Acc: 0.9633
+val Loss: 0.2549 Acc: 0.9641
+
+Epoch 5/15
+----------
+train Loss: 0.2847 Acc: 0.9655
+val Loss: 0.2574 Acc: 0.9617
+
+Epoch 6/15
+----------
+train Loss: 0.2821 Acc: 0.9670
+val Loss: 0.2583 Acc: 0.9633
+
+Epoch 7/15
+----------
+train Loss: 0.2867 Acc: 0.9651
+val Loss: 0.2582 Acc: 0.9633
+
+Epoch 8/15
+----------
+train Loss: 0.2818 Acc: 0.9653
+val Loss: 0.2572 Acc: 0.9641
+
+Epoch 9/15
+----------
+train Loss: 0.2848 Acc: 0.9670
+val Loss: 0.2574 Acc: 0.9633
+
+Epoch 10/15
+----------
+train Loss: 0.2827 Acc: 0.9674
+val Loss: 0.2572 Acc: 0.9641
+
+Epoch 11/15
+----------
+train Loss: 0.2867 Acc: 0.9629
+val Loss: 0.2573 Acc: 0.9641
+
+Epoch 12/15
+----------
+train Loss: 0.2830 Acc: 0.9641
+val Loss: 0.2586 Acc: 0.9633
+
+Epoch 13/15
+----------
+train Loss: 0.2848 Acc: 0.9625
+val Loss: 0.2587 Acc: 0.9633
+
+Epoch 14/15
+----------
+train Loss: 0.2820 Acc: 0.9682
+val Loss: 0.2589 Acc: 0.9633
+
+Epoch 15/15
+----------
+train Loss: 0.2824 Acc: 0.9655
+val Loss: 0.2574 Acc: 0.9633
+
+Training complete in 5m 22s
+Best val Acc: 0.965742
+Val
+Acc:  0.965742251223491
+Micro F1:  0.9657422512234911
+Train
+Acc:  0.965742251223491
+Micro F1:  0.9657422512234911
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 512 0.01 3 0.01
+Epoch 1/15
+----------
+train Loss: 1.0977 Acc: 0.6792
+val Loss: 0.8625 Acc: 0.7357
+
+Epoch 2/15
+----------
+train Loss: 0.1591 Acc: 0.9484
+val Loss: 0.1532 Acc: 0.9641
+
+Epoch 3/15
+----------
+train Loss: 0.0889 Acc: 0.9763
+val Loss: 0.0989 Acc: 0.9845
+
+Epoch 4/15
+----------
+train Loss: 0.0627 Acc: 0.9823
+val Loss: 0.0991 Acc: 0.9837
+
+Epoch 5/15
+----------
+train Loss: 0.0611 Acc: 0.9855
+val Loss: 0.0987 Acc: 0.9829
+
+Epoch 6/15
+----------
+train Loss: 0.0671 Acc: 0.9825
+val Loss: 0.0977 Acc: 0.9829
+
+Epoch 7/15
+----------
+train Loss: 0.0608 Acc: 0.9849
+val Loss: 0.0975 Acc: 0.9829
+
+Epoch 8/15
+----------
+train Loss: 0.0617 Acc: 0.9841
+val Loss: 0.0973 Acc: 0.9829
+
+Epoch 9/15
+----------
+train Loss: 0.0565 Acc: 0.9849
+val Loss: 0.0973 Acc: 0.9829
+
+Epoch 10/15
+----------
+train Loss: 0.0609 Acc: 0.9835
+val Loss: 0.0974 Acc: 0.9837
+
+Epoch 11/15
+----------
+train Loss: 0.0607 Acc: 0.9837
+val Loss: 0.0976 Acc: 0.9829
+
+Epoch 12/15
+----------
+train Loss: 0.0578 Acc: 0.9843
+val Loss: 0.0979 Acc: 0.9829
+
+Epoch 13/15
+----------
+train Loss: 0.0594 Acc: 0.9847
+val Loss: 0.0983 Acc: 0.9829
+
+Epoch 14/15
+----------
+train Loss: 0.0613 Acc: 0.9833
+val Loss: 0.0984 Acc: 0.9829
+
+Epoch 15/15
+----------
+train Loss: 0.0619 Acc: 0.9833
+val Loss: 0.0975 Acc: 0.9829
+
+Training complete in 5m 23s
+Best val Acc: 0.984502
+Val
+Acc:  0.9845024469820555
+Micro F1:  0.9845024469820555
+Train
+Acc:  0.9845024469820555
+Micro F1:  0.9845024469820555
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 512 0.01 3 0.1
+Epoch 1/15
+----------
+train Loss: 12.2396 Acc: 0.5332
+val Loss: 6.5557 Acc: 0.6770
+
+Epoch 2/15
+----------
+train Loss: 1.8791 Acc: 0.8985
+val Loss: 0.8540 Acc: 0.9649
+
+Epoch 3/15
+----------
+train Loss: 0.6224 Acc: 0.9643
+val Loss: 0.6697 Acc: 0.9755
+
+Epoch 4/15
+----------
+train Loss: 0.5007 Acc: 0.9690
+val Loss: 0.6709 Acc: 0.9747
+
+Epoch 5/15
+----------
+train Loss: 0.4264 Acc: 0.9708
+val Loss: 0.6728 Acc: 0.9739
+
+Epoch 6/15
+----------
+train Loss: 0.4583 Acc: 0.9684
+val Loss: 0.6621 Acc: 0.9739
+
+Epoch 7/15
+----------
+train Loss: 0.4202 Acc: 0.9719
+val Loss: 0.6586 Acc: 0.9739
+
+Epoch 8/15
+----------
+train Loss: 0.4431 Acc: 0.9696
+val Loss: 0.6647 Acc: 0.9731
+
+Epoch 9/15
+----------
+train Loss: 0.4511 Acc: 0.9717
+val Loss: 0.6647 Acc: 0.9731
+
+Epoch 10/15
+----------
+train Loss: 0.4626 Acc: 0.9706
+val Loss: 0.6601 Acc: 0.9739
+
+Epoch 11/15
+----------
+train Loss: 0.4038 Acc: 0.9737
+val Loss: 0.6628 Acc: 0.9739
+
+Epoch 12/15
+----------
+train Loss: 0.4622 Acc: 0.9708
+val Loss: 0.6627 Acc: 0.9739
+
+Epoch 13/15
+----------
+train Loss: 0.4563 Acc: 0.9733
+val Loss: 0.6571 Acc: 0.9739
+
+Epoch 14/15
+----------
+train Loss: 0.3865 Acc: 0.9735
+val Loss: 0.6596 Acc: 0.9739
+
+Epoch 15/15
+----------
+train Loss: 0.4059 Acc: 0.9710
+val Loss: 0.6635 Acc: 0.9731
+
+Training complete in 5m 23s
+Best val Acc: 0.975530
+Val
+Acc:  0.9755301794453507
+Micro F1:  0.9755301794453507
+Train
+Acc:  0.9755301794453507
+Micro F1:  0.9755301794453507
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 512 0.01 5 0.001
+Epoch 1/15
+----------
+train Loss: 1.6771 Acc: 0.5909
+val Loss: 1.2792 Acc: 0.7210
+
+Epoch 2/15
+----------
+train Loss: 0.7012 Acc: 0.9250
+val Loss: 0.4155 Acc: 0.9543
+
+Epoch 3/15
+----------
+train Loss: 0.3726 Acc: 0.9562
+val Loss: 0.2548 Acc: 0.9666
+
+Epoch 4/15
+----------
+train Loss: 0.2593 Acc: 0.9678
+val Loss: 0.2015 Acc: 0.9698
+
+Epoch 5/15
+----------
+train Loss: 0.2039 Acc: 0.9727
+val Loss: 0.1685 Acc: 0.9739
+
+Epoch 6/15
+----------
+train Loss: 0.1814 Acc: 0.9763
+val Loss: 0.1692 Acc: 0.9747
+
+Epoch 7/15
+----------
+train Loss: 0.1784 Acc: 0.9778
+val Loss: 0.1692 Acc: 0.9739
+
+Epoch 8/15
+----------
+train Loss: 0.1787 Acc: 0.9755
+val Loss: 0.1695 Acc: 0.9747
+
+Epoch 9/15
+----------
+train Loss: 0.1839 Acc: 0.9757
+val Loss: 0.1702 Acc: 0.9739
+
+Epoch 10/15
+----------
+train Loss: 0.1795 Acc: 0.9759
+val Loss: 0.1694 Acc: 0.9747
+
+Epoch 11/15
+----------
+train Loss: 0.1801 Acc: 0.9768
+val Loss: 0.1697 Acc: 0.9755
+
+Epoch 12/15
+----------
+train Loss: 0.1779 Acc: 0.9739
+val Loss: 0.1698 Acc: 0.9739
+
+Epoch 13/15
+----------
+train Loss: 0.1776 Acc: 0.9761
+val Loss: 0.1696 Acc: 0.9755
+
+Epoch 14/15
+----------
+train Loss: 0.1800 Acc: 0.9768
+val Loss: 0.1694 Acc: 0.9747
+
+Epoch 15/15
+----------
+train Loss: 0.1775 Acc: 0.9753
+val Loss: 0.1691 Acc: 0.9747
+
+Training complete in 5m 22s
+Best val Acc: 0.975530
+Val
+Acc:  0.9755301794453507
+Micro F1:  0.9755301794453507
+Train
+Acc:  0.9755301794453507
+Micro F1:  0.9755301794453507
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 512 0.01 5 0.01
+Epoch 1/15
+----------
+train Loss: 1.0045 Acc: 0.7007
+val Loss: 0.8141 Acc: 0.7610
+
+Epoch 2/15
+----------
+train Loss: 0.1872 Acc: 0.9476
+val Loss: 0.1341 Acc: 0.9723
+
+Epoch 3/15
+----------
+train Loss: 0.1067 Acc: 0.9706
+val Loss: 0.1187 Acc: 0.9812
+
+Epoch 4/15
+----------
+train Loss: 0.0776 Acc: 0.9802
+val Loss: 0.1179 Acc: 0.9821
+
+Epoch 5/15
+----------
+train Loss: 0.0570 Acc: 0.9847
+val Loss: 0.0993 Acc: 0.9837
+
+Epoch 6/15
+----------
+train Loss: 0.0452 Acc: 0.9876
+val Loss: 0.0998 Acc: 0.9837
+
+Epoch 7/15
+----------
+train Loss: 0.0484 Acc: 0.9880
+val Loss: 0.0995 Acc: 0.9829
+
+Epoch 8/15
+----------
+train Loss: 0.0537 Acc: 0.9855
+val Loss: 0.0997 Acc: 0.9829
+
+Epoch 9/15
+----------
+train Loss: 0.0464 Acc: 0.9857
+val Loss: 0.1004 Acc: 0.9829
+
+Epoch 10/15
+----------
+train Loss: 0.0445 Acc: 0.9884
+val Loss: 0.1004 Acc: 0.9829
+
+Epoch 11/15
+----------
+train Loss: 0.0427 Acc: 0.9910
+val Loss: 0.1003 Acc: 0.9837
+
+Epoch 12/15
+----------
+train Loss: 0.0450 Acc: 0.9886
+val Loss: 0.1011 Acc: 0.9837
+
+Epoch 13/15
+----------
+train Loss: 0.0431 Acc: 0.9910
+val Loss: 0.1003 Acc: 0.9837
+
+Epoch 14/15
+----------
+train Loss: 0.0494 Acc: 0.9874
+val Loss: 0.1003 Acc: 0.9837
+
+Epoch 15/15
+----------
+train Loss: 0.0443 Acc: 0.9886
+val Loss: 0.1001 Acc: 0.9829
+
+Training complete in 5m 22s
+Best val Acc: 0.983687
+Val
+Acc:  0.9836867862969005
+Micro F1:  0.9836867862969005
+Train
+Acc:  0.9836867862969005
+Micro F1:  0.9836867862969005
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 512 0.01 5 0.1
+Epoch 1/15
+----------
+train Loss: 5.1841 Acc: 0.6540
+val Loss: 6.2571 Acc: 0.7618
+
+Epoch 2/15
+----------
+train Loss: 1.1003 Acc: 0.9445
+val Loss: 0.6828 Acc: 0.9698
+
+Epoch 3/15
+----------
+train Loss: 0.6501 Acc: 0.9664
+val Loss: 0.7453 Acc: 0.9690
+
+Epoch 4/15
+----------
+train Loss: 0.4432 Acc: 0.9770
+val Loss: 0.6553 Acc: 0.9812
+
+Epoch 5/15
+----------
+train Loss: 0.3419 Acc: 0.9819
+val Loss: 0.4750 Acc: 0.9829
+
+Epoch 6/15
+----------
+train Loss: 0.2323 Acc: 0.9859
+val Loss: 0.4712 Acc: 0.9829
+
+Epoch 7/15
+----------
+train Loss: 0.2049 Acc: 0.9837
+val Loss: 0.4713 Acc: 0.9829
+
+Epoch 8/15
+----------
+train Loss: 0.2244 Acc: 0.9829
+val Loss: 0.4727 Acc: 0.9829
+
+Epoch 9/15
+----------
+train Loss: 0.2108 Acc: 0.9851
+val Loss: 0.4699 Acc: 0.9829
+
+Epoch 10/15
+----------
+train Loss: 0.2129 Acc: 0.9853
+val Loss: 0.4724 Acc: 0.9829
+
+Epoch 11/15
+----------
+train Loss: 0.2221 Acc: 0.9869
+val Loss: 0.4687 Acc: 0.9829
+
+Epoch 12/15
+----------
+train Loss: 0.1998 Acc: 0.9872
+val Loss: 0.4707 Acc: 0.9829
+
+Epoch 13/15
+----------
+train Loss: 0.2189 Acc: 0.9847
+val Loss: 0.4721 Acc: 0.9829
+
+Epoch 14/15
+----------
+train Loss: 0.1878 Acc: 0.9865
+val Loss: 0.4655 Acc: 0.9829
+
+Epoch 15/15
+----------
+train Loss: 0.1890 Acc: 0.9863
+val Loss: 0.4630 Acc: 0.9829
+
+Training complete in 5m 21s
+Best val Acc: 0.982871
+Val
+Acc:  0.9828711256117455
+Micro F1:  0.9828711256117455
+Train
+Acc:  0.9828711256117455
+Micro F1:  0.9828711256117455
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 512 0.01 7 0.001
+Epoch 1/15
+----------
+train Loss: 1.6561 Acc: 0.5759
+val Loss: 1.2505 Acc: 0.7170
+
+Epoch 2/15
+----------
+train Loss: 0.6912 Acc: 0.9264
+val Loss: 0.3999 Acc: 0.9617
+
+Epoch 3/15
+----------
+train Loss: 0.3747 Acc: 0.9576
+val Loss: 0.2506 Acc: 0.9731
+
+Epoch 4/15
+----------
+train Loss: 0.2558 Acc: 0.9688
+val Loss: 0.1934 Acc: 0.9747
+
+Epoch 5/15
+----------
+train Loss: 0.2011 Acc: 0.9745
+val Loss: 0.1656 Acc: 0.9788
+
+Epoch 6/15
+----------
+train Loss: 0.1679 Acc: 0.9776
+val Loss: 0.1472 Acc: 0.9804
+
+Epoch 7/15
+----------
+train Loss: 0.1460 Acc: 0.9808
+val Loss: 0.1369 Acc: 0.9829
+
+Epoch 8/15
+----------
+train Loss: 0.1379 Acc: 0.9796
+val Loss: 0.1360 Acc: 0.9821
+
+Epoch 9/15
+----------
+train Loss: 0.1398 Acc: 0.9794
+val Loss: 0.1352 Acc: 0.9821
+
+Epoch 10/15
+----------
+train Loss: 0.1377 Acc: 0.9816
+val Loss: 0.1356 Acc: 0.9821
+
+Epoch 11/15
+----------
+train Loss: 0.1366 Acc: 0.9825
+val Loss: 0.1352 Acc: 0.9821
+
+Epoch 12/15
+----------
+train Loss: 0.1361 Acc: 0.9816
+val Loss: 0.1352 Acc: 0.9821
+
+Epoch 13/15
+----------
+train Loss: 0.1382 Acc: 0.9794
+val Loss: 0.1354 Acc: 0.9821
+
+Epoch 14/15
+----------
+train Loss: 0.1373 Acc: 0.9810
+val Loss: 0.1344 Acc: 0.9821
+
+Epoch 15/15
+----------
+train Loss: 0.1398 Acc: 0.9821
+val Loss: 0.1347 Acc: 0.9821
+
+Training complete in 5m 23s
+Best val Acc: 0.982871
+Val
+Acc:  0.9828711256117455
+Micro F1:  0.9828711256117455
+Train
+Acc:  0.9828711256117455
+Micro F1:  0.9828711256117455
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 512 0.01 7 0.01
+Epoch 1/15
+----------
+train Loss: 0.9263 Acc: 0.7033
+val Loss: 0.9105 Acc: 0.7635
+
+Epoch 2/15
+----------
+train Loss: 0.1681 Acc: 0.9539
+val Loss: 0.1187 Acc: 0.9723
+
+Epoch 3/15
+----------
+train Loss: 0.0842 Acc: 0.9774
+val Loss: 0.1012 Acc: 0.9812
+
+Epoch 4/15
+----------
+train Loss: 0.0635 Acc: 0.9841
+val Loss: 0.0924 Acc: 0.9829
+
+Epoch 5/15
+----------
+train Loss: 0.0481 Acc: 0.9882
+val Loss: 0.0918 Acc: 0.9821
+
+Epoch 6/15
+----------
+train Loss: 0.0397 Acc: 0.9894
+val Loss: 0.0882 Acc: 0.9837
+
+Epoch 7/15
+----------
+train Loss: 0.0322 Acc: 0.9920
+val Loss: 0.0873 Acc: 0.9837
+
+Epoch 8/15
+----------
+train Loss: 0.0339 Acc: 0.9923
+val Loss: 0.0867 Acc: 0.9837
+
+Epoch 9/15
+----------
+train Loss: 0.0313 Acc: 0.9935
+val Loss: 0.0865 Acc: 0.9837
+
+Epoch 10/15
+----------
+train Loss: 0.0295 Acc: 0.9935
+val Loss: 0.0865 Acc: 0.9837
+
+Epoch 11/15
+----------
+train Loss: 0.0285 Acc: 0.9929
+val Loss: 0.0861 Acc: 0.9837
+
+Epoch 12/15
+----------
+train Loss: 0.0305 Acc: 0.9935
+val Loss: 0.0864 Acc: 0.9845
+
+Epoch 13/15
+----------
+train Loss: 0.0315 Acc: 0.9923
+val Loss: 0.0863 Acc: 0.9837
+
+Epoch 14/15
+----------
+train Loss: 0.0308 Acc: 0.9927
+val Loss: 0.0864 Acc: 0.9845
+
+Epoch 15/15
+----------
+train Loss: 0.0317 Acc: 0.9920
+val Loss: 0.0859 Acc: 0.9845
+
+Training complete in 5m 22s
+Best val Acc: 0.984502
+Val
+Acc:  0.9845024469820555
+Micro F1:  0.9845024469820555
+Train
+Acc:  0.9845024469820555
+Micro F1:  0.9845024469820555
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 512 0.01 7 0.1
+Epoch 1/15
+----------
+train Loss: 13.6470 Acc: 0.5426
+val Loss: 6.4761 Acc: 0.7398
+
+Epoch 2/15
+----------
+train Loss: 2.5300 Acc: 0.8950
+val Loss: 1.4987 Acc: 0.9413
+
+Epoch 3/15
+----------
+train Loss: 1.1127 Acc: 0.9458
+val Loss: 0.7139 Acc: 0.9812
+
+Epoch 4/15
+----------
+train Loss: 0.5485 Acc: 0.9727
+val Loss: 0.8004 Acc: 0.9812
+
+Epoch 5/15
+----------
+train Loss: 0.3672 Acc: 0.9792
+val Loss: 0.7967 Acc: 0.9788
+
+Epoch 6/15
+----------
+train Loss: 0.3125 Acc: 0.9825
+val Loss: 0.8074 Acc: 0.9829
+
+Epoch 7/15
+----------
+train Loss: 0.1958 Acc: 0.9888
+val Loss: 0.7797 Acc: 0.9812
+
+Epoch 8/15
+----------
+train Loss: 0.1796 Acc: 0.9892
+val Loss: 0.7701 Acc: 0.9812
+
+Epoch 9/15
+----------
+train Loss: 0.1752 Acc: 0.9896
+val Loss: 0.7730 Acc: 0.9812
+
+Epoch 10/15
+----------
+train Loss: 0.1708 Acc: 0.9888
+val Loss: 0.7645 Acc: 0.9812
+
+Epoch 11/15
+----------
+train Loss: 0.1631 Acc: 0.9888
+val Loss: 0.7651 Acc: 0.9812
+
+Epoch 12/15
+----------
+train Loss: 0.1579 Acc: 0.9908
+val Loss: 0.7632 Acc: 0.9821
+
+Epoch 13/15
+----------
+train Loss: 0.1446 Acc: 0.9888
+val Loss: 0.7515 Acc: 0.9829
+
+Epoch 14/15
+----------
+train Loss: 0.1317 Acc: 0.9902
+val Loss: 0.7529 Acc: 0.9829
+
+Epoch 15/15
+----------
+train Loss: 0.1446 Acc: 0.9916
+val Loss: 0.7509 Acc: 0.9829
+
+Training complete in 5m 24s
+Best val Acc: 0.982871
+Val
+Acc:  0.9828711256117455
+Micro F1:  0.9828711256117455
+Train
+Acc:  0.9828711256117455
+Micro F1:  0.9828711256117455
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 512 0.001 3 0.001
+Epoch 1/15
+----------
+train Loss: 1.6757 Acc: 0.5732
+val Loss: 1.3031 Acc: 0.7170
+
+Epoch 2/15
+----------
+train Loss: 0.6909 Acc: 0.9241
+val Loss: 0.4204 Acc: 0.9486
+
+Epoch 3/15
+----------
+train Loss: 0.3746 Acc: 0.9578
+val Loss: 0.2496 Acc: 0.9715
+
+Epoch 4/15
+----------
+train Loss: 0.2868 Acc: 0.9633
+val Loss: 0.2556 Acc: 0.9698
+
+Epoch 5/15
+----------
+train Loss: 0.2877 Acc: 0.9649
+val Loss: 0.2582 Acc: 0.9698
+
+Epoch 6/15
+----------
+train Loss: 0.2929 Acc: 0.9590
+val Loss: 0.2586 Acc: 0.9690
+
+Epoch 7/15
+----------
+train Loss: 0.2898 Acc: 0.9621
+val Loss: 0.2583 Acc: 0.9690
+
+Epoch 8/15
+----------
+train Loss: 0.2914 Acc: 0.9611
+val Loss: 0.2581 Acc: 0.9698
+
+Epoch 9/15
+----------
+train Loss: 0.2878 Acc: 0.9659
+val Loss: 0.2584 Acc: 0.9698
+
+Epoch 10/15
+----------
+train Loss: 0.2876 Acc: 0.9627
+val Loss: 0.2596 Acc: 0.9698
+
+Epoch 11/15
+----------
+train Loss: 0.2874 Acc: 0.9645
+val Loss: 0.2609 Acc: 0.9698
+
+Epoch 12/15
+----------
+train Loss: 0.2886 Acc: 0.9608
+val Loss: 0.2620 Acc: 0.9706
+
+Epoch 13/15
+----------
+train Loss: 0.2888 Acc: 0.9631
+val Loss: 0.2603 Acc: 0.9706
+
+Epoch 14/15
+----------
+train Loss: 0.2907 Acc: 0.9629
+val Loss: 0.2602 Acc: 0.9690
+
+Epoch 15/15
+----------
+train Loss: 0.2893 Acc: 0.9600
+val Loss: 0.2598 Acc: 0.9698
+
+Training complete in 5m 22s
+Best val Acc: 0.971452
+Val
+Acc:  0.9714518760195758
+Micro F1:  0.9714518760195758
+Train
+Acc:  0.9714518760195758
+Micro F1:  0.9714518760195758
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 512 0.001 3 0.01
+Epoch 1/15
+----------
+train Loss: 0.8191 Acc: 0.7378
+val Loss: 0.8926 Acc: 0.7357
+
+Epoch 2/15
+----------
+train Loss: 0.1500 Acc: 0.9496
+val Loss: 0.1085 Acc: 0.9788
+
+Epoch 3/15
+----------
+train Loss: 0.0744 Acc: 0.9819
+val Loss: 0.1023 Acc: 0.9829
+
+Epoch 4/15
+----------
+train Loss: 0.0581 Acc: 0.9863
+val Loss: 0.1041 Acc: 0.9829
+
+Epoch 5/15
+----------
+train Loss: 0.0563 Acc: 0.9865
+val Loss: 0.1050 Acc: 0.9837
+
+Epoch 6/15
+----------
+train Loss: 0.0584 Acc: 0.9853
+val Loss: 0.1055 Acc: 0.9829
+
+Epoch 7/15
+----------
+train Loss: 0.0601 Acc: 0.9835
+val Loss: 0.1059 Acc: 0.9837
+
+Epoch 8/15
+----------
+train Loss: 0.0597 Acc: 0.9874
+val Loss: 0.1051 Acc: 0.9837
+
+Epoch 9/15
+----------
+train Loss: 0.0576 Acc: 0.9855
+val Loss: 0.1059 Acc: 0.9837
+
+Epoch 10/15
+----------
+train Loss: 0.0566 Acc: 0.9872
+val Loss: 0.1053 Acc: 0.9837
+
+Epoch 11/15
+----------
+train Loss: 0.0579 Acc: 0.9853
+val Loss: 0.1058 Acc: 0.9837
+
+Epoch 12/15
+----------
+train Loss: 0.0598 Acc: 0.9837
+val Loss: 0.1061 Acc: 0.9837
+
+Epoch 13/15
+----------
+train Loss: 0.0601 Acc: 0.9849
+val Loss: 0.1061 Acc: 0.9837
+
+Epoch 14/15
+----------
+train Loss: 0.0602 Acc: 0.9849
+val Loss: 0.1064 Acc: 0.9837
+
+Epoch 15/15
+----------
+train Loss: 0.0588 Acc: 0.9855
+val Loss: 0.1061 Acc: 0.9837
+
+Training complete in 5m 23s
+Best val Acc: 0.983687
+Val
+Acc:  0.9836867862969005
+Micro F1:  0.9836867862969005
+Train
+Acc:  0.9836867862969005
+Micro F1:  0.9836867862969005
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 512 0.001 3 0.1
+Epoch 1/15
+----------
+train Loss: 4.7822 Acc: 0.6962
+val Loss: 4.8903 Acc: 0.7202
+
+Epoch 2/15
+----------
+train Loss: 1.0110 Acc: 0.9331
+val Loss: 0.7355 Acc: 0.9657
+
+Epoch 3/15
+----------
+train Loss: 0.3522 Acc: 0.9761
+val Loss: 0.5653 Acc: 0.9788
+
+Epoch 4/15
+----------
+train Loss: 0.3715 Acc: 0.9774
+val Loss: 0.5770 Acc: 0.9796
+
+Epoch 5/15
+----------
+train Loss: 0.3436 Acc: 0.9774
+val Loss: 0.5711 Acc: 0.9780
+
+Epoch 6/15
+----------
+train Loss: 0.4119 Acc: 0.9733
+val Loss: 0.5687 Acc: 0.9788
+
+Epoch 7/15
+----------
+train Loss: 0.3788 Acc: 0.9774
+val Loss: 0.5757 Acc: 0.9788
+
+Epoch 8/15
+----------
+train Loss: 0.4011 Acc: 0.9770
+val Loss: 0.5693 Acc: 0.9788
+
+Epoch 9/15
+----------
+train Loss: 0.3858 Acc: 0.9765
+val Loss: 0.5680 Acc: 0.9788
+
+Epoch 10/15
+----------
+train Loss: 0.4063 Acc: 0.9786
+val Loss: 0.5719 Acc: 0.9788
+
+Epoch 11/15
+----------
+train Loss: 0.4126 Acc: 0.9745
+val Loss: 0.5712 Acc: 0.9788
+
+Epoch 12/15
+----------
+train Loss: 0.3690 Acc: 0.9770
+val Loss: 0.5753 Acc: 0.9780
+
+Epoch 13/15
+----------
+train Loss: 0.3655 Acc: 0.9800
+val Loss: 0.5767 Acc: 0.9788
+
+Epoch 14/15
+----------
+train Loss: 0.3573 Acc: 0.9780
+val Loss: 0.5698 Acc: 0.9788
+
+Epoch 15/15
+----------
+train Loss: 0.3890 Acc: 0.9770
+val Loss: 0.5715 Acc: 0.9788
+
+Training complete in 5m 23s
+Best val Acc: 0.979608
+Val
+Acc:  0.9796084828711256
+Micro F1:  0.9796084828711256
+Train
+Acc:  0.9796084828711256
+Micro F1:  0.9796084828711256
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 512 0.001 5 0.001
+Epoch 1/15
+----------
+train Loss: 1.7550 Acc: 0.5243
+val Loss: 1.3203 Acc: 0.7072
+
+Epoch 2/15
+----------
+train Loss: 0.7490 Acc: 0.9113
+val Loss: 0.4436 Acc: 0.9478
+
+Epoch 3/15
+----------
+train Loss: 0.4013 Acc: 0.9492
+val Loss: 0.2697 Acc: 0.9641
+
+Epoch 4/15
+----------
+train Loss: 0.2786 Acc: 0.9633
+val Loss: 0.2080 Acc: 0.9698
+
+Epoch 5/15
+----------
+train Loss: 0.2178 Acc: 0.9680
+val Loss: 0.1766 Acc: 0.9731
+
+Epoch 6/15
+----------
+train Loss: 0.1949 Acc: 0.9706
+val Loss: 0.1772 Acc: 0.9731
+
+Epoch 7/15
+----------
+train Loss: 0.1939 Acc: 0.9735
+val Loss: 0.1795 Acc: 0.9731
+
+Epoch 8/15
+----------
+train Loss: 0.1919 Acc: 0.9733
+val Loss: 0.1778 Acc: 0.9731
+
+Epoch 9/15
+----------
+train Loss: 0.1936 Acc: 0.9706
+val Loss: 0.1776 Acc: 0.9731
+
+Epoch 10/15
+----------
+train Loss: 0.1926 Acc: 0.9725
+val Loss: 0.1773 Acc: 0.9731
+
+Epoch 11/15
+----------
+train Loss: 0.1917 Acc: 0.9719
+val Loss: 0.1790 Acc: 0.9731
+
+Epoch 12/15
+----------
+train Loss: 0.1923 Acc: 0.9715
+val Loss: 0.1777 Acc: 0.9731
+
+Epoch 13/15
+----------
+train Loss: 0.1912 Acc: 0.9743
+val Loss: 0.1777 Acc: 0.9731
+
+Epoch 14/15
+----------
+train Loss: 0.1915 Acc: 0.9706
+val Loss: 0.1780 Acc: 0.9731
+
+Epoch 15/15
+----------
+train Loss: 0.1892 Acc: 0.9737
+val Loss: 0.1784 Acc: 0.9731
+
+Training complete in 5m 24s
+Best val Acc: 0.973083
+Val
+Acc:  0.9730831973898858
+Micro F1:  0.9730831973898858
+Train
+Acc:  0.9730831973898858
+Micro F1:  0.9730831973898858
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 512 0.001 5 0.01
+Epoch 1/15
+----------
+train Loss: 0.7071 Acc: 0.7739
+val Loss: 1.0139 Acc: 0.7716
+
+Epoch 2/15
+----------
+train Loss: 0.1108 Acc: 0.9706
+val Loss: 0.1349 Acc: 0.9715
+
+Epoch 3/15
+----------
+train Loss: 0.0764 Acc: 0.9802
+val Loss: 0.0950 Acc: 0.9829
+
+Epoch 4/15
+----------
+train Loss: 0.0504 Acc: 0.9876
+val Loss: 0.0900 Acc: 0.9821
+
+Epoch 5/15
+----------
+train Loss: 0.0457 Acc: 0.9894
+val Loss: 0.0891 Acc: 0.9837
+
+Epoch 6/15
+----------
+train Loss: 0.0303 Acc: 0.9925
+val Loss: 0.0893 Acc: 0.9837
+
+Epoch 7/15
+----------
+train Loss: 0.0373 Acc: 0.9906
+val Loss: 0.0896 Acc: 0.9837
+
+Epoch 8/15
+----------
+train Loss: 0.0357 Acc: 0.9902
+val Loss: 0.0897 Acc: 0.9837
+
+Epoch 9/15
+----------
+train Loss: 0.0378 Acc: 0.9902
+val Loss: 0.0897 Acc: 0.9837
+
+Epoch 10/15
+----------
+train Loss: 0.0323 Acc: 0.9923
+val Loss: 0.0895 Acc: 0.9837
+
+Epoch 11/15
+----------
+train Loss: 0.0382 Acc: 0.9880
+val Loss: 0.0894 Acc: 0.9837
+
+Epoch 12/15
+----------
+train Loss: 0.0384 Acc: 0.9906
+val Loss: 0.0892 Acc: 0.9837
+
+Epoch 13/15
+----------
+train Loss: 0.0363 Acc: 0.9920
+val Loss: 0.0893 Acc: 0.9837
+
+Epoch 14/15
+----------
+train Loss: 0.0384 Acc: 0.9912
+val Loss: 0.0893 Acc: 0.9837
+
+Epoch 15/15
+----------
+train Loss: 0.0355 Acc: 0.9908
+val Loss: 0.0890 Acc: 0.9845
+
+Training complete in 5m 23s
+Best val Acc: 0.984502
+Val
+Acc:  0.9845024469820555
+Micro F1:  0.9845024469820555
+Train
+Acc:  0.9845024469820555
+Micro F1:  0.9845024469820555
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 512 0.001 5 0.1
+Epoch 1/15
+----------
+train Loss: 9.8938 Acc: 0.6044
+val Loss: 6.9093 Acc: 0.7121
+
+Epoch 2/15
+----------
+train Loss: 1.8062 Acc: 0.9131
+val Loss: 1.0898 Acc: 0.9608
+
+Epoch 3/15
+----------
+train Loss: 0.7199 Acc: 0.9621
+val Loss: 0.6249 Acc: 0.9763
+
+Epoch 4/15
+----------
+train Loss: 0.4883 Acc: 0.9729
+val Loss: 0.6533 Acc: 0.9829
+
+Epoch 5/15
+----------
+train Loss: 0.2430 Acc: 0.9845
+val Loss: 0.5504 Acc: 0.9837
+
+Epoch 6/15
+----------
+train Loss: 0.2526 Acc: 0.9878
+val Loss: 0.5508 Acc: 0.9829
+
+Epoch 7/15
+----------
+train Loss: 0.2265 Acc: 0.9865
+val Loss: 0.5549 Acc: 0.9829
+
+Epoch 8/15
+----------
+train Loss: 0.2546 Acc: 0.9847
+val Loss: 0.5555 Acc: 0.9829
+
+Epoch 9/15
+----------
+train Loss: 0.2602 Acc: 0.9833
+val Loss: 0.5544 Acc: 0.9829
+
+Epoch 10/15
+----------
+train Loss: 0.2152 Acc: 0.9869
+val Loss: 0.5591 Acc: 0.9829
+
+Epoch 11/15
+----------
+train Loss: 0.2532 Acc: 0.9861
+val Loss: 0.5563 Acc: 0.9829
+
+Epoch 12/15
+----------
+train Loss: 0.2622 Acc: 0.9857
+val Loss: 0.5493 Acc: 0.9837
+
+Epoch 13/15
+----------
+train Loss: 0.2143 Acc: 0.9853
+val Loss: 0.5563 Acc: 0.9829
+
+Epoch 14/15
+----------
+train Loss: 0.2221 Acc: 0.9874
+val Loss: 0.5601 Acc: 0.9829
+
+Epoch 15/15
+----------
+train Loss: 0.2371 Acc: 0.9861
+val Loss: 0.5585 Acc: 0.9829
+
+Training complete in 5m 22s
+Best val Acc: 0.983687
+Val
+Acc:  0.9836867862969005
+Micro F1:  0.9836867862969005
+Train
+Acc:  0.9836867862969005
+Micro F1:  0.9836867862969005
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 512 0.001 7 0.001
+Epoch 1/15
+----------
+train Loss: 1.6717 Acc: 0.5897
+val Loss: 1.3039 Acc: 0.6909
+
+Epoch 2/15
+----------
+train Loss: 0.6847 Acc: 0.9270
+val Loss: 0.4100 Acc: 0.9494
+
+Epoch 3/15
+----------
+train Loss: 0.3725 Acc: 0.9551
+val Loss: 0.2534 Acc: 0.9715
+
+Epoch 4/15
+----------
+train Loss: 0.2563 Acc: 0.9649
+val Loss: 0.1999 Acc: 0.9747
+
+Epoch 5/15
+----------
+train Loss: 0.2036 Acc: 0.9684
+val Loss: 0.1716 Acc: 0.9755
+
+Epoch 6/15
+----------
+train Loss: 0.1689 Acc: 0.9782
+val Loss: 0.1512 Acc: 0.9812
+
+Epoch 7/15
+----------
+train Loss: 0.1435 Acc: 0.9798
+val Loss: 0.1390 Acc: 0.9804
+
+Epoch 8/15
+----------
+train Loss: 0.1400 Acc: 0.9782
+val Loss: 0.1386 Acc: 0.9796
+
+Epoch 9/15
+----------
+train Loss: 0.1381 Acc: 0.9808
+val Loss: 0.1384 Acc: 0.9812
+
+Epoch 10/15
+----------
+train Loss: 0.1399 Acc: 0.9806
+val Loss: 0.1384 Acc: 0.9804
+
+Epoch 11/15
+----------
+train Loss: 0.1386 Acc: 0.9802
+val Loss: 0.1384 Acc: 0.9804
+
+Epoch 12/15
+----------
+train Loss: 0.1426 Acc: 0.9794
+val Loss: 0.1383 Acc: 0.9812
+
+Epoch 13/15
+----------
+train Loss: 0.1395 Acc: 0.9814
+val Loss: 0.1378 Acc: 0.9812
+
+Epoch 14/15
+----------
+train Loss: 0.1374 Acc: 0.9821
+val Loss: 0.1385 Acc: 0.9812
+
+Epoch 15/15
+----------
+train Loss: 0.1385 Acc: 0.9816
+val Loss: 0.1385 Acc: 0.9812
+
+Training complete in 5m 21s
+Best val Acc: 0.981240
+Val
+Acc:  0.9812398042414355
+Micro F1:  0.9812398042414355
+Train
+Acc:  0.9812398042414355
+Micro F1:  0.9812398042414355
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 512 0.001 7 0.01
+Epoch 1/15
+----------
+train Loss: 0.9463 Acc: 0.6915
+val Loss: 0.9222 Acc: 0.7162
+
+Epoch 2/15
+----------
+train Loss: 0.1667 Acc: 0.9511
+val Loss: 0.1053 Acc: 0.9747
+
+Epoch 3/15
+----------
+train Loss: 0.0924 Acc: 0.9715
+val Loss: 0.0941 Acc: 0.9837
+
+Epoch 4/15
+----------
+train Loss: 0.0676 Acc: 0.9821
+val Loss: 0.1002 Acc: 0.9796
+
+Epoch 5/15
+----------
+train Loss: 0.0499 Acc: 0.9884
+val Loss: 0.0807 Acc: 0.9821
+
+Epoch 6/15
+----------
+train Loss: 0.0418 Acc: 0.9902
+val Loss: 0.1068 Acc: 0.9804
+
+Epoch 7/15
+----------
+train Loss: 0.0366 Acc: 0.9900
+val Loss: 0.0829 Acc: 0.9845
+
+Epoch 8/15
+----------
+train Loss: 0.0356 Acc: 0.9914
+val Loss: 0.0826 Acc: 0.9837
+
+Epoch 9/15
+----------
+train Loss: 0.0329 Acc: 0.9918
+val Loss: 0.0827 Acc: 0.9845
+
+Epoch 10/15
+----------
+train Loss: 0.0310 Acc: 0.9923
+val Loss: 0.0830 Acc: 0.9837
+
+Epoch 11/15
+----------
+train Loss: 0.0318 Acc: 0.9918
+val Loss: 0.0828 Acc: 0.9837
+
+Epoch 12/15
+----------
+train Loss: 0.0333 Acc: 0.9908
+val Loss: 0.0830 Acc: 0.9837
+
+Epoch 13/15
+----------
+train Loss: 0.0330 Acc: 0.9918
+val Loss: 0.0822 Acc: 0.9837
+
+Epoch 14/15
+----------
+train Loss: 0.0348 Acc: 0.9900
+val Loss: 0.0823 Acc: 0.9837
+
+Epoch 15/15
+----------
+train Loss: 0.0351 Acc: 0.9920
+val Loss: 0.0828 Acc: 0.9837
+
+Training complete in 5m 24s
+Best val Acc: 0.984502
+Val
+Acc:  0.9845024469820555
+Micro F1:  0.9845024469820555
+Train
+Acc:  0.9845024469820555
+Micro F1:  0.9845024469820555
+Done
+_____________________________________________
+
+
+fold-batch_size-gamma-step_size-learning_rate 1 512 0.001 7 0.1
+Epoch 1/15
+----------
+train Loss: 6.8450 Acc: 0.6413
+val Loss: 4.0417 Acc: 0.7692
+
+Epoch 2/15
+----------
+train Loss: 1.4864 Acc: 0.9288
+val Loss: 0.8153 Acc: 0.9690
+
+Epoch 3/15
+----------
+train Loss: 0.4961 Acc: 0.9721
+val Loss: 0.8719 Acc: 0.9763
+
+Epoch 4/15
+----------
+train Loss: 0.4779 Acc: 0.9739
+val Loss: 0.7503 Acc: 0.9755
+
+Epoch 5/15
+----------
+train Loss: 0.3059 Acc: 0.9827
+val Loss: 0.7599 Acc: 0.9796
+
+Epoch 6/15
+----------
+train Loss: 0.2439 Acc: 0.9829
+val Loss: 0.7403 Acc: 0.9780
+
+Epoch 7/15
+----------
+train Loss: 0.1824 Acc: 0.9853
+val Loss: 0.6919 Acc: 0.9804
+
+Epoch 8/15
+----------
+train Loss: 0.1735 Acc: 0.9876
+val Loss: 0.6979 Acc: 0.9804
+
+Epoch 9/15
+----------
+train Loss: 0.1478 Acc: 0.9876
+val Loss: 0.6950 Acc: 0.9804
+
+Epoch 10/15
+----------
+train Loss: 0.1709 Acc: 0.9851
+val Loss: 0.6953 Acc: 0.9804
+
+Epoch 11/15
+----------
+train Loss: 0.1492 Acc: 0.9865
+val Loss: 0.6975 Acc: 0.9804
+
+Epoch 12/15
+----------
+train Loss: 0.1814 Acc: 0.9853
+val Loss: 0.6931 Acc: 0.9804
+
+Epoch 13/15
+----------
+train Loss: 0.1399 Acc: 0.9896
+val Loss: 0.6940 Acc: 0.9821
+
+Epoch 14/15
+----------
+train Loss: 0.1607 Acc: 0.9884
+val Loss: 0.6959 Acc: 0.9821
+
+Epoch 15/15
+----------
+train Loss: 0.1599 Acc: 0.9880
+val Loss: 0.6945 Acc: 0.9821
+
+Training complete in 5m 22s
+Best val Acc: 0.982055
+Val
+Acc:  0.9820554649265906
+Micro F1:  0.9820554649265906
+Train
+Acc:  0.9820554649265906
+Micro F1:  0.9820554649265906
+Done
+_____________________________________________
